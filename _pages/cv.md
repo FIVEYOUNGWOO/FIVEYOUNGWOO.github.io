@@ -12,15 +12,6 @@ redirect_from:
 오영우 (Oh Youngwoo, 吳煐宇)
 ---
 
-학력 (Education)
----
-* 석사, 조선대학교 (컴퓨터공학과, 2022.03.02 - 2024.02.23)
-  * 전체 : 3.86 / 4.5 (24학점 이수)
-* 학사, 조선대학교 (컴퓨터공학과, 2016.03.02 - 2022.02.25)
-  * 전체 : 3.86 / 4.5 (130학점 이수)
-  * 전공 : 3.71 / 4.5 (63학점 이수, 54학점 (P/F 전공 제외))
-* 졸업, 금호고등학교 (인문, 2013.03.04 - 2016.02.02)
-
 <!-- 경력 (Work experience)
 ---
 * Spring 2024: Academic Pages Collaborator
@@ -38,14 +29,23 @@ redirect_from:
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
 
+학력 (Education)
+---
+* 석사, 조선대학교 (컴퓨터공학과, 2022.03.02 - 2024.02.23)
+  * 전체 : 3.86 / 4.5 (24학점 이수)
+* 학사, 조선대학교 (컴퓨터공학과, 2016.03.02 - 2022.02.25)
+  * 전체 : 3.86 / 4.5 (130학점 이수)
+  * 전공 : 3.71 / 4.5 (63학점 이수, 54학점 (P/F 전공 제외))
+* 졸업, 금호고등학교 (인문, 2013.03.04 - 2016.02.02)
+
 병역 (Military service)
 ---
 * 만기제대, 육군 (2016.12.13 - 2018.09.12)
   * 병과 : 111102 (기관총)
 
-어학 (Language Skill)
+어학 (Language skill)
 ---
-* OPIc (Oral Proficiency Interview)
+* OPIc (Oral proficiency interview)
   * Intermediate Mid 2, 2G8915615426 (2024.04.28)
 
 
