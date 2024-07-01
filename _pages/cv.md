@@ -21,6 +21,23 @@ redirect_from:
   * 전공 : 3.71 / 4.5 (63학점 이수, 54학점 (P/F 전공 제외))
 * 졸업, 금호고등학교 (인문, 2013.03.04 - 2016.02.02)
 
+<!-- 경력 (Work experience)
+---
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git -->
+
 병역 (Military service)
 ---
 * 만기제대, 육군 (2016.12.13 - 2018.09.12)
