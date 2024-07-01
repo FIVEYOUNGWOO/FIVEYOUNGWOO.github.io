@@ -34,7 +34,7 @@ author_profile: true
 
 <br>
 <br>
-<h1>Domestic Journals (KCI/SCOPUS)</h1>
+<h1>Domestic Journals (SCOPUS/KCI)</h1>
 ------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'domestic_journal' %}
