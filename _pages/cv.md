@@ -14,7 +14,7 @@ redirect_from:
 
 경력 (Work experience)
 ---
-* POSCO (2025 - )
+* POSCO (Will join in 2025)
   * Decision Intelligence Researcher
 
 학력 (Education)
