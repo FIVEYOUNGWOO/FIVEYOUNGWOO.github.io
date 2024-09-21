@@ -12,10 +12,10 @@ redirect_from:
 오영우 (Oh Youngwoo, 吳煐宇)
 ---
 
-경력 (Work experience)
+<!-- 경력 (Work experience)
 ---
 * POSCO (Will join in 2025)
-  * Decision Intelligence Researcher
+  * Decision Intelligence Researcher -->
 
 학력 (Education)
 ---
