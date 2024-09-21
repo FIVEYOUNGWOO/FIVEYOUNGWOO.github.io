@@ -45,7 +45,9 @@ redirect_from:
 
 어학 (Language skill)
 ---
-* OPIc (Oral proficiency interview)
+* TOEIC (English)
+  * 820 (2024.09.17)
+* OPIc (English)
   * Intermediate Mid 2, 2G8915615426 (2024.04.28)
 
 
@@ -69,6 +71,7 @@ redirect_from:
 <br>
 
 * **개발 및 교육 관련 (development and education-related)**
+  * 스마트팩토리 구축을 위한 생산관리 데이터분석 (NCS 수료) 이수, HRD KDT (2024.09.20)
   * 서버 관리자, 조선대학교 EX-online judge (OJ) 시스템 서버 유지 및 관리 (2023.03.04 - 2023.08.31)
   * 연구 멘토, 학부생 멘토링 연구실 멘토 프로그램 (실시간 위치 추정 시스템 설계 및 구현) (2022.09.02 - 2022.12.28)
   * 멀티모달 센서 logging 기술 및 모바일 애플리케이션 설계 및 개발, KAIST MINT Lab (2022.08.04 - 2024.02.29)
