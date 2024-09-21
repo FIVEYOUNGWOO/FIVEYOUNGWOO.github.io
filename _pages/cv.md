@@ -12,14 +12,16 @@ redirect_from:
 오영우 (Oh Youngwoo, 吳煐宇)
 ---
 
-<!-- 경력 (Work experience)
+경력 (Work experience)
 ---
-* Spring 2024: Academic Pages Collaborator
+* POXXX (2024 - )
+  * Decision Intelligence Researcher
+<!-- * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: The Users -->
 
-* Fall 2015: Research Assistant
+<!-- * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -59,7 +61,7 @@ redirect_from:
 연구 분야 (Research areas)
 ---
 * Object detection and tracking based on novel AI approach (Knowledge distillation, multimodal learning)
-* IoT sensing and data server-based smart solution (NFC, WiFi, BLE, HTTP, camera, etc)
+* IoT-based sensing and data-driven smart solution (NFC, WiFi, BLE, HTTP, camera, etc)
 * Reinforcement learning-based optimization (single, multi-agent, and multi-objective RL)
 * 5G/B5G network (Heterogeneous, sensor netowrks, and massive MIMO systems)
 
