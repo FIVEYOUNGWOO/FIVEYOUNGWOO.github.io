@@ -94,15 +94,15 @@ redirect_from:
   * 워크샵, 학술대회, 세미나, 성과발표회 등의 다양한 발표 경험
   * 다수의 국책 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
 
-소속 학회 (Professional memberships)
+<!-- 소속 학회 (Professional memberships)
 ---
   * graduate student member, IEEE (2021 ~ present)
   * 학생회원, 한국전자파학회 (2021 ~ present)
   * 학생회원, 한국통신학회 (2020 ~ present)
   * 학생회원, 대한전자공학회 (2020 ~ present)
-  * 학생회원, 한국스마트미디어학회 (2020 ~ present)
+  * 학생회원, 한국스마트미디어학회 (2020 ~ present) -->
 
-<embed src="{{ site.baseurl }}/files/mycv.pdf" width="600" height="700" type='application/pdf'>
+<!-- <embed src="{{ site.baseurl }}/files/mycv.pdf" width="600" height="700" type='application/pdf'> -->
 
 <!-- 자격증 (Certifications)
 ---
