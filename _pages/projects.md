@@ -70,7 +70,7 @@ redirectfrom:
     * 게이트웨이 및 비콘 장치의 API 수정 및 제어를 통한 환경 구축
     * Extended Kalman filter 설계 및 이를 활용한 BLE 데이터 평탄화 수행
     * Python Flask 라이브러리 기반의 데이터 수집 및 저장 서버 구축
-    * Multi-thread webhook 서버 및 GET/POST 기반의 Event Handler 구현
+    * Multi-thread webhook 서버 및 HTTP GET/POST 기반의 Event Handler 구현
   * 업무 성과
     * 실내 환경에서의 3cm 이하의 정밀도를 지닌 위치 추정 기술 확보
     * 2023 한국전자파학회 동계종합학술대회에서 "IoT 기반 실시간 실내 위치 추정 시스템 설계 및 구현" 발표
