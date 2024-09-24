@@ -33,11 +33,8 @@ redirect_from:
 
 어학 (Language skill)
 ---
-* TOEIC (English)
-  * 820 (2024.09.17)
 * OPIc (English)
   * Intermediate Mid 2, 2G8915615426 (2024.04.28)
-
 
 석사 학위 논문 (Master's thesis)
 ---
@@ -46,10 +43,10 @@ redirect_from:
 
 연구 분야 (Research areas)
 ---
-* Object detection and tracking based on novel AI approach (Knowledge distillation, multimodal learning)
-* IoT-based sensing and data-driven smart solution (NFC, WiFi, BLE, HTTP, camera, etc)
-* Reinforcement learning-based optimization (single, multi-agent, and multi-objective RL)
-* 5G/B5G network (Heterogeneous, sensor netowrks, and massive MIMO systems)
+* Reinforcement learning-based resource allocation and optimization (single, multi-agent, and multi-objective RL)
+* Wireless and sensing data-driven smart solution (WiFi, BLE, HTTP, NFC, camera, etc)
+* Wireless communication (SDR-based wireless communication systems, MIMO and massive MIMO systems)
+* Object detection and tracking based on a multimodal approach (Knowledge distillation between WiFi and video)
 
 연구 경험 (Research experience)
 ---
@@ -83,9 +80,9 @@ redirect_from:
 ---
 * **프로그래밍 능력 (programming skills)**
   * 다양한 프로그래밍 언어 및 프레임워크 활용 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
-  * 강화학습 알고리즘 기반의 목적함수 최적화 설계 (DQN, DDQN, A2C, A3C, PPO, Pareto-policy, MO-A3Cs, etc.)
-  * IoT, ICT 센싱 및 mobilie applocation, multi-thread server 통합을 기반 스마트 솔루션 개발 및 구현
-  * SDR 기반 4X4 MIMO-OFDM, TDMA-based multi-hop relay network 등 무선 테스트베드 설계 및 구현
+  * 수학적 최적화 및 제어 문제 해결을 위한 강화학습 알고리즘 설계 (DQN, DDQN, A2C, A3C, Pareto approximation, MO-A3Cs, etc.)
+  * IoT/ICT 센싱 및 mobilie applocation, HTTP 서버를 활용한 스마트 솔루션 개발 및 구현
+  * SDR 기반 End-to-End, 4X4 MIMO-OFDM, TDD/TDMA relay network 등 무선 네트워크 테스트베드 설계 및 구축
 <br>
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
@@ -96,7 +93,6 @@ redirect_from:
 * **발표 및 시각화 능력 (presentation and visualization skills)**
   * 워크샵, 학술대회, 세미나, 성과발표회 등의 다양한 발표 경험
   * 다수의 국책 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
-
 
 소속 학회 (Professional memberships)
 ---
