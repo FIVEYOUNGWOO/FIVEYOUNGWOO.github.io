@@ -12,10 +12,7 @@ redirect_from:
 오영우 (Oh Youngwoo, 吳煐宇)
 ---
 
-<!-- 경력 (Work experience)
----
-* POSCO (Will join in 2025)
-  * Decision Intelligence Researcher -->
+<!-- 경력 (Work experience) -->
 
 학력 (Education)
 ---
@@ -52,7 +49,6 @@ redirect_from:
 연구 경험 (Research experience)
 ---
 * **연구 관련 (research-related)**
-  * 연구 인턴, 강화학습 기반 자율주행 제어 기술개발, Naver Labs (2024.05.01 - 2024.11.01)
   * 산학연 참여 연구원, 조선대학교 산학협력단 (2022.03.04 - 2024.02.29)
   * 연구 인턴, 딥러닝 기반 비접촉 발열 측정 시스템, Intflow (2021.01.01 - 2021.01.31)
   * 산학연 학부 참여 연구원, 조선대학교 산학협력단 (2020.04.01 - 2022.02.25)
