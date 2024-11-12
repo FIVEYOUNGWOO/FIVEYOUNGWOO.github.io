@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Youngwoo Oh"
 title_separator          : "-"
 name                     : &name "Youngwoo Oh"
-description              : &description "M.S. in Computer Science"
+description              : &description "Wireless Communication & AI Researcher"
 url                      : https://FIVEYOUNGWOO.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FIVEYOUNGWOO/FIVEYOUNGWOO.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Youngwoo Oh"
   avatar           : "profile.jpg"
-  bio              : "M.S. in Computer Science"
+  bio              : "Wireless Communication & AI Researcher"
   location         : "Gwangju"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
