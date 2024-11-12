@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 ###################################################################################
-# Automatic domain forwarind http://FIVEYOUNGWOO.github.io to https://ohyoungwoo.com/
+# Automatic domain forwarind http://FIVEYOUNGWOO.github.io to https://ohyoungwoo.com
 ###################################################################################
 
 # Site Settings
@@ -117,7 +117,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "@youngwooh"
+  youtube          : 
   wikipedia        :
 
 
