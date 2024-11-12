@@ -27,7 +27,7 @@ redirect_from:
 병역 (Military service)
 ---
 * 만기제대, 육군 (2016.12.13 - 2018.09.12)
-  * 병과 : 111102 (기관총)
+  * 병과 : 보병 / 111102 (기관총)
 
 어학 (Language skill)
 ---
@@ -41,17 +41,17 @@ redirect_from:
 
 연구 분야 (Research areas)
 ---
-* Reinforcement learning-based resource allocation and optimization (single, multi-agent, and multi-objective RL)
 * Wireless and sensing data-driven smart solution (WiFi, BLE, HTTP, NFC, camera, etc)
 * Wireless communication (SDR-based wireless communication systems, MIMO and massive MIMO systems)
+* Reinforcement learning-based resource allocation and optimization (single, multi-agent, and multi-objective RL)
 * Object detection and tracking based on a multimodal approach (Knowledge distillation between WiFi and video)
 
 연구 경험 (Research experience)
 ---
 * **연구 관련 (research-related)**
-  * 산학연 참여 연구원, 조선대학교 산학협력단 (2022.03.04 - 2024.02.29)
+  * 산학연 참여연구원, 조선대학교 산학협력단 (2022.03.04 - 2024.02.29)
   * 연구 인턴, 딥러닝 기반 비접촉 발열 측정 시스템, Intflow (2021.01.01 - 2021.01.31)
-  * 산학연 학부 참여 연구원, 조선대학교 산학협력단 (2020.04.01 - 2022.02.25)
+  * 산학연 학부 참여연구원, 조선대학교 산학협력단 (2020.04.01 - 2022.02.25)
 <br>
 
 * **개발 및 교육 관련 (development and education-related)**
@@ -77,10 +77,10 @@ redirect_from:
 주요 역량 (Summary of qualifications)
 ---
 * **프로그래밍 능력 (programming skills)**
-  * 다양한 프로그래밍 언어 및 프레임워크 활용 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
-  * 수학적 최적화 및 제어 문제 해결을 위한 강화학습 알고리즘 설계 (DQN, DDQN, A2C, A3C, Pareto approximation, MO-A3Cs, etc.)
   * IoT/ICT 센싱 및 mobilie applocation, HTTP 서버를 활용한 스마트 솔루션 개발 및 구현
   * SDR 기반 End-to-End, 4X4 MIMO-OFDM, TDD/TDMA relay network 등 무선 네트워크 테스트베드 설계 및 구축
+  * 다양한 프로그래밍 언어 및 프레임워크 활용 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
+  * 수학적 최적화 및 제어 문제 해결을 위한 강화학습 알고리즘 설계 (DQN, DDQN, A2C, A3C, Pareto approximation, MO-A3Cs, etc.)
 <br>
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
