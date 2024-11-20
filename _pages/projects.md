@@ -13,35 +13,35 @@ redirectfrom:
 <details>
 <summary><strong>헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발</strong></summary>
 
-**과제 정보**  
-- **발주기관:** 중소기업기술정보진흥원  
-- **참여기간:** 2024.01.01 - 2024.02.29 (2개월)  
-- **연구목표:** 사용자의 운동정보 수집 및 분석을 위한 IoT 기반 헬스케어 시작품 개발  
-- **연구책임:** 최우열  
-- **참여인원:** 5명  
-- **계상비율:** 15%  
+<strong>과제 정보</strong>  
+- <strong>발주기관:</strong> 중소기업기술정보진흥원  
+- <strong>참여기간:</strong> 2024.01.01 - 2024.02.29 (2개월)  
+- <strong>연구목표:</strong> 사용자의 운동정보 수집 및 분석을 위한 IoT 기반 헬스케어 시작품 개발  
+- <strong>연구책임:</strong> 최우열  
+- <strong>참여인원:</strong> 5명  
+- <strong>계상비율:</strong> 15%  
 
-<br>
+---
 
-**개발도구**  
-- **Software:** C/C++, Matplotlib  
-- **Hardware:** Raspberry Pi 4, Arduino Uno WiFi Rev2  
+<strong>개발도구</strong>  
+- <strong>Software:</strong> C/C++, Matplotlib  
+- <strong>Hardware:</strong> Raspberry Pi 4, Arduino Uno WiFi Rev2  
 
-<br>
+---
 
-**수행 역할**  
+<strong>수행 역할</strong>  
 - 지역 내 중소기업의 맞춤형 IoT 솔루션 기술개발을 위한 요구사항 분석 및 헬스케어 AI 전략 수립  
 - 사용자의 운동 데이터 수집 및 시각화를 위한 IoT 센서 및 임베디드 장치를 활용한 1차 시제품 제작 및 기업 이관  
 
-<br>
+---
 
-**업무 성과**  
+<strong>업무 성과</strong>  
 - 스마트 페달 1개 시제품 제작 및 이를 위한 3D 도안 및 임베디드 SW 확보  
 - 제36회 영상처리 및 이해에 관한 워크샵에서 '사용자 운동정보 분석을 위한 헬스케어 모니터링 시스템' 발표  
 
-<br>
+---
 
-**학습 및 경험**  
+<strong>학습 및 경험</strong>  
 - IoT 및 임베디드 시스템을 위한 소프트웨어 최적화 기법 학습  
 - 기업의 요구사항 반영 및 기술명세서 기반 IoT 시스템 구축 경험  
 
