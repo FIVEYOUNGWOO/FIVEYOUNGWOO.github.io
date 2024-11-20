@@ -12,15 +12,15 @@ redirectfrom:
 
 * **헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발**
   * **과제 정보**
-    * **발주기관**: 중소기업기술정보진흥원
-    * **참여기간**: 2024.01.01 - 2024.02.29 (2개월)
-    * **연구목표**: 사용자의 운동정보 수집 및 분석을 위한 IoT 기반 헬스케어 시작품 개발
-    * **연구책임자**: 최우열
-    * **참여인원**: 5명
-    * **계상비율**: 15%
+    * 발주기관: 중소기업기술정보진흥원
+    * 참여기간: 2024.01.01 - 2024.02.29 (2개월)
+    * 연구목표: 사용자의 운동정보 수집 및 분석을 위한 IoT 기반 헬스케어 시작품 개발
+    * 연구책임: 최우열
+    * 참여인원: 5명
+    * 계상비율: 15%
   * **개발도구**
-    * **Software**: C/C++, Matplotlib
-    * **Hardware**: Raspberry Pi 4, Arduino Uno WiFi Rev2
+    * Software: C/C++, Matplotlib
+    * Hardware: Raspberry Pi 4, Arduino Uno WiFi Rev2
   * **수행 역할**
     * 지역 내 중소기업의 맞춤형 IoT 솔루션 기술개발을 위한 요구사항 분석 및 헬스케어 AI 전략 수립
     * 사용자의 운동 데이터 수집 및 시각화를 위한 IoT 센서 및 임베디드 장치를 활용한 1차 시제품 제작 및 기업 이관
@@ -34,15 +34,15 @@ redirectfrom:
 
 * **축산오염환경에 강건한 동물 활동 모니터링을 위한 RF 기반 영상정보 보완기술 기초연구**
   * **과제 정보**
-    * **발주기관**: 중소기업기술정보진흥원
-    * **참여기간**: 2023.07.01 - 2023.08.31 (2개월)
-    * **연구목표**: 모니터링 기술의 음영지역 보완을 위한 RF 기반 센서 퓨전 기법 설계 및 로깅 자동화 기술개발
-    * **연구책임자**: 최우열
-    * **참여인원**: 5명
-    * **계상비율**: 4%
+    * 발주기관: 중소기업기술정보진흥원
+    * 참여기간: 2023.07.01 - 2023.08.31 (2개월)
+    * 연구목표: 모니터링 기술의 음영지역 보완을 위한 RF 기반 센서 퓨전 기법 설계 및 로깅 자동화 기술개발
+    * 연구책임: 최우열
+    * 참여인원: 5명
+    * 계상비율: 4%
   * **개발도구**
-    * **Software**: Linux (Ubuntu 18.04), Octave & MATLAB, C/C++, OpenCV
-    * **Hardware**: TP-Link AC1750 WiFi Router, Intel 5300 NIC adapters, Up-Squared Board (UPS-APLP4F-A20-0864)
+    * Software: Linux (Ubuntu 18.04), Octave & MATLAB, C/C++, OpenCV
+    * Hardware: TP-Link AC1750 WiFi Router, Intel 5300 NIC adapters, Up-Squared Board (UPS-APLP4F-A20)
   * **수행 역할**
     * WiFi 신호 취득을 위한 WiFi 라우터 펌웨어 및 WLAN 드라이버 수정
     * WiFi 신호/영상 정보의 센서 퓨전을 위한 C 언어 응용 SW 개발
@@ -56,15 +56,15 @@ redirectfrom:
 
 * **재난상황 군중 밀집도 모니터링을 위한 RF 기반 모빌리티 탐지 기술 개발**
   * **과제 정보**
-    * **발주기관**: 한국연구재단
-    * **참여기간**: 2023.06.22 - 2023.12.31 (7개월)
-    * **연구목표**: CCTV 장치의 물리적 제약 극복을 위한 멀티모달 AI 기반 객체 모션 추정 기술개발
-    * **연구책임자**: 최우열
-    * **참여인원**: 5명
-    * **계상비율**: 59%
+    * 발주기관: 한국연구재단
+    * 참여기간: 2023.06.22 - 2023.12.31 (7개월)
+    * 연구목표: CCTV 장치의 물리적 제약 극복을 위한 멀티모달 AI 기반 객체 모션 추정 기술개발
+    * 연구책임: 최우열
+    * 참여인원: 5명
+    * 계상비율: 59%
   * **개발도구**
-    * **Software**: Python, MATLAB, TensorFlow, PyTorch, Pandas, COCO
-    * **Hardware**: Up-Squared Board (UPS-APLP4F-A20-0864)
+    * Software: Python, MATLAB, TensorFlow, PyTorch, Pandas, COCO
+    * Hardware: Up-Squared Board (UPS-APLP4F-A20)
   * **수행 역할**
     * 센서퓨전 SW 최적화 및 경량화를 통한 Embedded Board 탑재
     * 객체 탐지/추적을 위한 멀티모달 AI 기반 Motion Estimation 알고리즘 설계 및 구현
@@ -79,15 +79,15 @@ redirectfrom:
 
 * **영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발**
   * **과제 정보**
-    * **발주기관**: 조선대학교 LINC 3.0 사업단 (한국연구재단)
-    * **참여기간**: 2022.11.24 - 2023.02.23 (3개월)
-    * **연구목표**: CCTV 화각 제한 및 오염 등의 물리적 제약 극복을 위한 BLE 기반 객체 위치 추정 기술개발
-    * **연구책임자**: 최우열
-    * **참여인원**: 5명
-    * **계상비율**: 22%
+    * 발주기관: 조선대학교 LINC 3.0 사업단 (한국연구재단)
+    * 참여기간: 2022.11.24 - 2023.02.23 (3개월)
+    * 연구목표: CCTV 화각 제한 및 오염 등의 물리적 제약 극복을 위한 BLE 기반 객체 위치 추정 기술개발
+    * 연구책임: 최우열
+    * 참여인원: 5명
+    * 계상비율: 22%
   * **개발도구**
-    * **Software**: Python, PyQt, Flask (HTTP, webhook), Matplotlib
-    * **Hardware**: MINEW G1 IoT Gateway, MINEW E7 Beacon
+    * Software: Python, PyQt, Flask (HTTP, webhook), Matplotlib
+    * Hardware: MINEW G1 IoT Gateway, MINEW E7 Beacon
   * **수행 역할**
     * 게이트웨이 및 비콘 장치의 API 수정 및 제어를 통한 환경 구축
     * Extended Kalman filter 설계 및 이를 활용한 BLE 데이터 평탄화 수행
@@ -104,14 +104,14 @@ redirectfrom:
 
 * **XR 기반 임상 실습 교육을 위한 실시간 다중 훈련 플랫폼 개발**
   * **과제 정보**
-    * **발주기관**: 중소기업기술정보진흥원
-    * **참여기간**: 2022.09.01 - 2023.08.31 (12개월)
-    * **연구목표**: 다중 사용자 접속에 따른 프로세스 최적화를 위한 프리펩 기술 설계 및 구현
-    * **연구책임자**: 최우열
-    * **참여인원**: 10명
-    * **계상비율**: 16% (27.77 + 4.54 / 2)
+    * 발주기관: 중소기업기술정보진흥원
+    * 참여기간: 2022.09.01 - 2023.08.31 (12개월)
+    * 연구목표: 다중 사용자 접속에 따른 프로세스 최적화를 위한 프리펩 기술 설계 및 구현
+    * 연구책임: 최우열
+    * 참여인원: 10명
+    * 계상비율: 16% (27.77 + 4.54 / 2)
   * **개발도구**
-    * **Software**: 3D Unity, Open Inventor
+    * Software: 3D Unity, Open Inventor
   * **수행 역할**
     * 지역 내 중소기업에서 요구하는 XR 기반 훈련 플랫폼의 실시간 성능 분석 및 평가
     * 플랫폼 서버의 과부하 및 지연시간 문제 해결을 위한 프리펩 기술 구현과 후속 훈련 플랫폼 개발 전략 수립
@@ -125,14 +125,14 @@ redirectfrom:
 
 * **Flying Ad-Hoc Network를 위한 연합 심층강화학습 기반 자원할당 기술 연구**
   * **과제 정보**
-    * **발주기관**: 한국연구재단
-    * **참여기간**: 2021.10.01 - 2024.02.29 (29개월)
-    * **연구목표**: 심층 강화학습 기반 최적의 자원할당 및 제어 알고리즘 설계 및 개발
-    * **연구책임자**: 최우열
-    * **참여인원**: 3명
-    * **계상비율**: 58% (80 + 50 + 45.45 / 3)
+    * 발주기관: 한국연구재단
+    * 참여기간: 2021.10.01 - 2024.02.29 (29개월)
+    * 연구목표: 심층 강화학습 기반 최적의 자원할당 및 제어 알고리즘 설계 및 개발
+    * 연구책임: 최우열
+    * 참여인원: 3명
+    * 계상비율: 58% (80 + 50 + 45.45 / 3)
   * **개발도구**
-    * **Software**: Python, Matplotlib, TensorFlow, PyTorch, Keras, Pandas, OpenAI Gym, Stable-Baselines3
+    * Software: Python, Matplotlib, TensorFlow, PyTorch, Keras, Pandas, OpenAI Gym, Stable-Baselines3
   * **수행 역할**
     * 무선 자원할당을 위한 OpenAI Gym 프레임워크 기반 SW 시뮬레이션 환경 구축
     * DQN, A2C 등의 강화학습 알고리즘을 활용한 네트워크 효율성 향상 및 최적 제어 알고리즘 설계
@@ -148,15 +148,15 @@ redirectfrom:
 
 * **전이중 클라우드 무선 접속 네트워크를 위한 딥러닝 기반 빔형성 프로토콜 개발**
   * **과제 정보**
-    * **발주기관**: 한국연구재단
-    * **참여기간**: 2021.03.01 - 2022.02.28 (12개월)
-    * **연구목표**: 무선 접속 네트워크의 성능 향상을 위한 SDR 테스트베드 설계 및 AI 기반 신호처리 기술개발
-    * **연구책임자**: 최우열
-    * **참여인원**: 4명
-    * **계상비율**: 20%
+    * 발주기관: 한국연구재단
+    * 참여기간: 2021.03.01 - 2022.02.28 (12개월)
+    * 연구목표: 무선 접속 네트워크의 성능 향상을 위한 SDR 테스트베드 설계 및 AI 기반 신호처리 기술개발
+    * 연구책임: 최우열
+    * 참여인원: 4명
+    * 계상비율: 20%
   * **개발도구**
-    * **Software**: LabVIEW NXG 5.0, LabVIEW Communications System Design Suite 5.0, LabVIEW FPGA Module, MATLAB (Deep Learning Toolbox)
-    * **Hardware**: NI-USRP 2921 (half-duplex), NI-USRP 2932 (full-duplex)
+    * Software: LabVIEW NXG 5.0, LabVIEW Communications System Design Suite 5.0, LabVIEW FPGA Module, MATLAB (Deep Learning Toolbox)
+    * Hardware: NI-USRP 2921 (half-duplex), NI-USRP 2932 (full-duplex)
   * **수행 역할**
     * 클러스터링 기반 다중 사용자 uplink 스케줄링 및 패킷 경로 제어 알고리즘 설계 및 구현
     * Software-defined radio (SDR) 장치 기반 무선 테스트베드 SW 개발 및 알고리즘 검증
@@ -170,15 +170,15 @@ redirectfrom:
 
 * **BWMS 데이터 전송을 위한 무선 통신 기술 개발**
   * **과제 정보**
-    * **발주기관**: 해양수산과학기술진흥원
-    * **참여기간**: 2020.04.01 - 2020.12.31 (9개월)
-    * **연구목표**: 선박 내 신호 감쇠 환경에 강건한 BWMS 데이터 전송을 위한 SDR 기반 무선 테스트베드 기술개발
-    * **연구책임자**: 최우열
-    * **참여인원**: 3명
-    * **계상비율**: 60%
+    * 발주기관: 해양수산과학기술진흥원
+    * 참여기간: 2020.04.01 - 2020.12.31 (9개월)
+    * 연구목표: 선박 내 신호 감쇠 환경에 강건한 BWMS 데이터 전송을 위한 SDR 기반 무선 테스트베드 기술개발
+    * 연구책임: 최우열
+    * 참여인원: 3명
+    * 계상비율: 60%
   * **개발도구**
-    * **Software**: LabVIEW NXG 5.0, LabVIEW Communications System Design Suite 5.0, LabVIEW FPGA Module, MATLAB (Deep Learning Toolbox)
-    * **Hardware**: NI-USRP 2921 (half-duplex), NI-USRP 2932 (full-duplex)
+    * Software: LabVIEW (Communications System Design Suite 5.0, FPGA Module), MATLAB (Deep Learning Toolbox)
+    * Hardware: NI-USRP 2921 (half-duplex), NI-USRP 2932 (full-duplex)
   * **수행 역할**
     * LabVIEW 프로그래밍 및 SDR 장치를 활용한 멀티 홉 릴레이 네트워크 구축
     * 전송 효율성을 높이기 위한 경로 제어 기술 및 디지털 필터 설계 및 구현
