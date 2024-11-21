@@ -21,25 +21,25 @@ redirectfrom:
 - <strong>참여인원:</strong> 5명<br>
 - <strong>계상비율:</strong> 15%<br>
 
----
+<hr>
 
 <strong>개발도구</strong><br>
 - <strong>Software:</strong> C/C++, Matplotlib<br>
 - <strong>Hardware:</strong> Raspberry Pi 4, Arduino Uno WiFi Rev2<br>
 
----
+<hr>
 
 <strong>수행 역할</strong><br>
 - 지역 내 중소기업의 맞춤형 IoT 솔루션 기술개발을 위한 요구사항 분석 및 헬스케어 AI 전략 수립<br>
 - 사용자의 운동 데이터 수집 및 시각화를 위한 IoT 센서 및 임베디드 장치를 활용한 1차 시제품 제작 및 기업 이관<br>
 
----
+<hr>
 
 <strong>업무 성과</strong><br>
 - 스마트 페달 1개 시제품 제작 및 이를 위한 3D 도안 및 임베디드 SW 확보<br>
 - 제36회 영상처리 및 이해에 관한 워크샵에서 '사용자 운동정보 분석을 위한 헬스케어 모니터링 시스템' 발표<br>
 
----
+<hr>
 
 <strong>학습 및 경험</strong><br>
 - IoT 및 임베디드 시스템을 위한 소프트웨어 최적화 기법 학습<br>
