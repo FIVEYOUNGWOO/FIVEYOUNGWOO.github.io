@@ -12,10 +12,10 @@ redirect_from:
 오영우 (Oh Youngwoo, 吳煐宇)
 ---
 
-경력 (Work experience)
+<!-- 경력 (Work experience)
 ---
 * 인턴, Naver Labs (2024.07.01 - 2024.10.31)
-  * 연합 심층 강화학습 기반 자율주행 알고리즘 설계
+  * 연합 심층 강화학습 기반 자율주행 알고리즘 설계 -->
 
 학력 (Education)
 ---
