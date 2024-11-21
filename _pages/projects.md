@@ -214,7 +214,7 @@ redirectfrom:
     * 계상비율: 20%
 
   * **개발도구**
-    * Software: LabVIEW NXG 5.0, LabVIEW Communications System Design Suite 5.0, LabVIEW FPGA Module, MATLAB (Deep Learning Toolbox)
+    * Software: LabVIEW (Communications System Design Suite 5.0, FPGA Module), MATLAB (Deep Learning Toolbox)
     * Hardware: NI-USRP 2921 (half-duplex), NI-USRP 2932 (full-duplex)
 
   * **수행 역할**
@@ -242,7 +242,7 @@ redirectfrom:
     * 계상비율: 60%
 
   * **개발도구**
-    * Software: LabVIEW (Communications System Design Suite 5.0, FPGA Module), MATLAB (Deep Learning Toolbox)
+    * Software: LabVIEW (Communications System Design Suite 5.0, FPGA Module), MATLAB
     * Hardware: NI-USRP 2921 (half-duplex), NI-USRP 2932 (full-duplex)
 
   * **수행 역할**
