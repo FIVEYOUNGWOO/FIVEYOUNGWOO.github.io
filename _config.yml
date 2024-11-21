@@ -110,7 +110,7 @@ author:
   orcid            : https://orcid.org/0000-0001-6452-6333 #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/18469670/youngwoo-oh" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
