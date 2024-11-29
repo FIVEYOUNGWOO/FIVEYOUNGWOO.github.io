@@ -10,8 +10,7 @@ redirectfrom:
 
 ## 대표 참여 연구과제 실적
 
-**헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발**
-**Development of IoT-based indoor bicycle smart pedal for healthcare**
+**헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발 (Development of IoT-based indoor bicycle smart pedal for healthcare)**
   * **과제 정보**
     * 발주기관: 중소기업기술정보진흥원
     * 참여기간: 2024.01.01 - 2024.02.29 (2개월)
@@ -42,8 +41,7 @@ redirectfrom:
 
 <br>
 
-**축산오염환경에 강건한 동물 활동 모니터링을 위한 RF 기반 영상정보 보완기술 기초연구**
-**Research on RF-based video compensation for robust animal activity monitoring in livestock pollution environments**
+**축산오염환경에 강건한 동물 활동 모니터링을 위한 RF 기반 영상정보 보완기술 기초연구 (Research on RF-based video compensation for robust animal activity monitoring in livestock pollution environments)**
   * **과제 정보**
     * 발주기관: 중소기업기술정보진흥원
     * 참여기간: 2023.07.01 - 2023.08.31 (2개월)
@@ -73,8 +71,7 @@ redirectfrom:
 
 <br>
 
-**재난상황 군중 밀집도 모니터링을 위한 RF 기반 모빌리티 탐지 기술 개발**
-**Development of RF-based mobility detection for crowd density monitoring in disaster environments**
+**재난상황 군중 밀집도 모니터링을 위한 RF 기반 모빌리티 탐지 기술 개발 (Development of RF-based mobility detection for crowd density monitoring in disaster environments)**
   * **과제 정보**
     * 발주기관: 한국연구재단
     * 참여기간: 2023.06.22 - 2023.12.31 (7개월)
@@ -108,8 +105,7 @@ redirectfrom:
 
 <br>
 
-**영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발**
-**Development of a prototype for recognizing cow's calving signs using video and BLE**
+**영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발 (Development of a prototype for recognizing cow's calving signs using video and BLE)**
   * **과제 정보**
     * 발주기관: 조선대학교 LINC 3.0 사업단 (한국연구재단)
     * 참여기간: 2022.11.24 - 2023.02.23 (3개월)
@@ -141,8 +137,7 @@ redirectfrom:
 
 <br>
 
-**XR 기반 임상 실습 교육을 위한 실시간 다중 훈련 플랫폼 개발**
-**Development of XR-based multi-user training platform for clinical practice training**
+**XR 기반 임상 실습 교육을 위한 실시간 다중 훈련 플랫폼 개발 (Development of XR-based multi-user training platform for clinical practice training)**
   * **과제 정보**
     * 발주기관: 중소기업기술정보진흥원
     * 참여기간: 2022.09.01 - 2023.08.31 (12개월)
@@ -168,8 +163,7 @@ redirectfrom:
 
 <br>
 
-**Flying Ad-Hoc Network를 위한 연합 심층강화학습 기반 자원할당 기술 연구**
-**Federated deep reinforcement learning-based resource allocation for flying ad-hoc network**
+**Flying Ad-Hoc Network를 위한 연합 심층강화학습 기반 자원할당 기술 연구 (Federated deep reinforcement learning-based resource allocation for flying ad-hoc network)**
   * **과제 정보**
     * 발주기관: 한국연구재단
     * 참여기간: 2021.10.01 - 2024.02.29 (29개월)
@@ -203,8 +197,7 @@ redirectfrom:
 
 <br>
 
-**전이중 클라우드 무선 접속 네트워크를 위한 딥러닝 기반 빔형성 프로토콜 개발**
-**Deep-learning based beamforming protocol for full-duplex C-RAN**
+**전이중 클라우드 무선 접속 네트워크를 위한 딥러닝 기반 빔형성 프로토콜 개발 (Deep-learning based beamforming protocol for full-duplex C-RAN)**
   * **과제 정보**
     * 발주기관: 한국연구재단
     * 참여기간: 2021.03.01 - 2022.02.28 (12개월)
@@ -231,8 +224,7 @@ redirectfrom:
 
 <br>
 
-**BWMS 데이터 전송을 위한 무선 통신 기술 개발**
-**Wireless communication technology for BWMS data transmission**
+**BWMS 데이터 전송을 위한 무선 통신 기술 개발 (Wireless communication technology for BWMS data transmission)**
   * **과제 정보**
     * 발주기관: 해양수산과학기술진흥원
     * 참여기간: 2020.04.01 - 2020.12.31 (9개월)
