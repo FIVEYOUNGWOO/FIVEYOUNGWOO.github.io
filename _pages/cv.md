@@ -80,10 +80,26 @@ redirect_from:
 주요 역량 (Summary of qualifications)
 ---
 * **프로그래밍 능력 (programming skills)**
-  * IoT/ICT 센싱 및 mobilie applocation, HTTP 서버를 활용한 스마트 솔루션 개발 및 구현
-  * SDR 기반 End-to-End, 4X4 MIMO-OFDM, TDD/TDMA relay network 등 무선 네트워크 테스트베드 설계 및 구축
+  * SDR 기반 D2D, 4X4 MIMO-OFDM, TDD/TDMA 등 무선 네트워크 시뮬레이터/테스트베드 설계 및 구축
   * 다양한 프로그래밍 언어 및 프레임워크 활용 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
   * 수학적 최적화 및 제어 문제 해결을 위한 강화학습 알고리즘 설계 (DQN, DDQN, A2C, A3C, Pareto approximation, MO-A3Cs, etc.)
+  * IoT/ICT 센싱 및 mobilie applocation, HTTP 서버를 활용한 스마트 솔루션 개발 및 구현
+<br>
+
+* **선호 개발 언어 (Preferred Programming Languages)**
+* Python
+* LabVIEW
+* MATLAB
+* Java
+* C/C++
+<br>
+
+* **선호 프레임워크 (Preferred Programming Frameworks)**
+* PyTorch/TensorFlow (For Deep Learning Development)
+* Open AI Gym/StableBaselines (For Reinforcement Learning Development)
+* LabVIEW/Communications System Design Suite (For Wireless Communication System Design and Validation)
+* Python Flask (For Backend development)
+* Android Studio/Java (For Mobile Application development)
 <br>
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
