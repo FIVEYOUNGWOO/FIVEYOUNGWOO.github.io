@@ -44,9 +44,9 @@ redirect_from:
 
 연구 분야 (Research areas)
 ---
-* Wireless and sensing data-driven smart solution (WiFi, BLE, HTTP, NFC, camera, etc)
 * Wireless communication (SDR-based wireless communication systems, MIMO and massive MIMO systems)
 * Reinforcement learning-based resource allocation and optimization (single, multi-agent, and multi-objective RL)
+* Wireless and IoT sensing-based smart ssolution and systems (WiFi, BLE, HTTP, NFC, Camera, etc)
 * Object detection and tracking based on a multimodal approach (Knowledge distillation between WiFi and video)
 
 연구 경험 (Research experience)
