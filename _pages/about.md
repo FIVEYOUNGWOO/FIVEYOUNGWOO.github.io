@@ -10,7 +10,7 @@ redirect_from:
 
 <h1>About Me</h1>
 ------
-I am deeply passionate about the design and validation of Software-Defined Radio (SDR)-based wireless networks and network optimization with reinforcement learning (RL) approaches. These areas are the cornerstone of my work as a wireless communication researcher at the [Smart Networking Lab (SNL)](https://sites.google.com/view/smart-networking/member). I have developed expertise through two years as an undergraduate-intern and subsequent M.S. studies in Computer Science at Chosun University.
+I am deeply passionate about designing and validating Software-Defined Radio (SDR)-based wireless networks and optimizing them using reinforcement learning (RL) approaches. Over two years as an undergraduate intern and during my M.S. studies at the [Smart Networking Lab (SNL)](https://sites.google.com/view/smart-networking/member) in Computer Science at Chosun University, I have developed expertise in wireless communications.
 
 Wireless technology has achieved remarkable advancements in frequency performance, yet these gains occur with increased energy consumption and computational complexity. To address these challenges, my work focuses on leveraging the RL approach to optimize wireless resource allocation while balancing trade-offs between spectral and energy efficiency. Specifically, I designed the RL algorithm for massive antenna-aided base station (BS) transmission power allocation in multi-cellular networks. This work, published in _IEEE Access_, received the Best Paper Award at _the 33rd Joint Conference on Communications and Information (JCCI)_.
 
