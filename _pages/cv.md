@@ -44,16 +44,15 @@ redirect_from:
 
 연구 분야 (Research areas)
 ---
-* Wireless and sensing data-driven smart solution (WiFi, BLE, HTTP, NFC, camera, etc)
 * Wireless communication (SDR-based wireless communication systems, MIMO and massive MIMO systems)
 * Reinforcement learning-based resource allocation and optimization (single, multi-agent, and multi-objective RL)
+* Wireless and IoT sensing-based smart ssolution and systems (WiFi, BLE, HTTP, NFC, Camera, etc)
 * Object detection and tracking based on a multimodal approach (Knowledge distillation between WiFi and video)
 
 연구 경험 (Research experience)
 ---
 * **연구 관련 (research-related)**
   * 산학연 참여연구원, 조선대학교 산학협력단 (2022.03.04 - 2024.02.29)
-  * 연구 인턴, 딥러닝 기반 비접촉 발열 측정 시스템, Intflow (2021.01.01 - 2021.01.31)
   * 산학연 학부 참여연구원, 조선대학교 산학협력단 (2020.04.01 - 2022.02.25)
 <br>
 
@@ -69,6 +68,7 @@ redirect_from:
   * 소프트웨어 강사 양성 과정 이수, 한전 KDN (2020.01.02 - 2020.01.22)
 <br>
 
+<<<<<<< HEAD
 * **수상 경력 (honors and awards)**
   * 국방부장관상, "해안경계의 음영지역 보완을 위한 음향 AI 기반 선박 탐지 및 분류 시스템", 제1회 국방 AI 아이디어톤 / Team : Sound Add-On (2024.12.06)
   * 우수상, "산업현장의 근로자 위험 상황 추적 관리 시스템", 과학기술정보통신부 외 3개 범부처 기관 주최, 2023 대학원생 창업아이템 경진대회 (2023.11.03)
@@ -78,13 +78,31 @@ redirect_from:
   * 장려상 (학부 우수논문), "시분할 다중접속 기반 다중 홉 릴레이 네트워크 구현 및 성능 분석", 2021 한국통신학회 동계종합학술발표회 (2021.02.03)
   * 장려상, 대학교 LINC 3.0 사업단 연합 공동 주최, 지역 개발 융합대회 (2020.01.29 - 31)
 
+=======
+>>>>>>> 4563dd5282f7971153e7b9f5fe4992393798cd8f
 주요 역량 (Summary of qualifications)
 ---
 * **프로그래밍 능력 (programming skills)**
-  * IoT/ICT 센싱 및 mobilie applocation, HTTP 서버를 활용한 스마트 솔루션 개발 및 구현
-  * SDR 기반 End-to-End, 4X4 MIMO-OFDM, TDD/TDMA relay network 등 무선 네트워크 테스트베드 설계 및 구축
+  * SDR 기반 D2D, 4X4 MIMO-OFDM, TDD/TDMA 등 무선 네트워크 시뮬레이터/테스트베드 설계 및 구축
   * 다양한 프로그래밍 언어 및 프레임워크 활용 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
   * 수학적 최적화 및 제어 문제 해결을 위한 강화학습 알고리즘 설계 (DQN, DDQN, A2C, A3C, Pareto approximation, MO-A3Cs, etc.)
+  * IoT/ICT 센싱 및 mobilie applocation, HTTP 서버를 활용한 스마트 솔루션 개발 및 구현
+<br>
+
+* **선호 개발 언어 (Preferred Programming Languages)**
+  * Python
+  * LabVIEW
+  * MATLAB
+  * Java
+  * C/C++
+<br>
+
+* **선호 프레임워크 (Preferred Programming Frameworks)**
+  * PyTorch/TensorFlow (For Deep Learning Development)
+  * Open AI Gym/StableBaselines (For Reinforcement Learning Development)
+  * LabVIEW/Communications System Design Suite (For Wireless Communication System Design and Validation)
+  * Python Flask (For Backend development)
+  * Android Studio/Java (For Mobile Application development)
 <br>
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
@@ -95,6 +113,15 @@ redirect_from:
 * **발표 및 시각화 능력 (presentation and visualization skills)**
   * 워크샵, 학술대회, 세미나, 성과발표회 등의 다양한 발표 경험
   * 다수의 국책 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
+
+수상 경력 (honors and awards)
+---
+* 우수상, "산업현장의 근로자 위험 상황 추적 관리 시스템", 과학기술정보통신부 외 3개 범부처 기관 주최, 2023 대학원생 창업아이템 경진대회 (2023.11.03)
+* 우수 논문상, "대규모 MIMO 시스템에서 주파수 효율성 및 사용자 공정성 공동 최적화를 위한 다중목표 강화학습 기반 전력 할당 기법", 제 33회 통신정보 합동학술대회 (2023.04.27)
+* 우수상, GJ RIP 광주/전남 학생 AI 아이디어 공모전 (2022.03.18 - 25)
+* 은상, "사물인터넷 (IoT) 다중센서를 활용한 스마트 우산 공유 프로그램", 2021 조선대학교 제15회 종합학술대회 (2021.11.26)
+* 장려상 (학술대회 학부 우수논문), "시분할 다중접속 기반 다중 홉 릴레이 네트워크 구현 및 성능 분석", 2021 한국통신학회 동계종합학술발표회 (2021.02.03)
+* 장려상, 대학교 LINC 3.0 사업단 연합 공동 주최, 지역 개발 융합대회 (2020.01.29 - 31)
 
 <!-- 소속 학회 (Professional memberships)
 ---
