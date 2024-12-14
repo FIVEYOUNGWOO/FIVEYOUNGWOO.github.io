@@ -111,18 +111,12 @@ redirect_from:
 
 소속 학회 (Professional memberships)
 ---
-  * graduate student member, IEEE (2021 ~ present)
-  * 학생회원, 한국전자파학회 (2021 ~ present)
-  * 학생회원, 한국통신학회 (2020 ~ present)
-  * 학생회원, 대한전자공학회 (2020 ~ present)
-  * 학생회원, 한국스마트미디어학회 (2020 ~ present)
+* graduate student member, IEEE (2021 ~ present)
+* 학생회원, 한국전자파학회 (2021 ~ present)
+* 학생회원, 한국통신학회 (2020 ~ present)
+* 학생회원, 대한전자공학회 (2020 ~ present)
+* 학생회원, 한국스마트미디어학회 (2020 ~ present)
 
-<!-- <embed src="{{ site.baseurl }}/files/mycv.pdf" width="600" height="700" type='application/pdf'> -->
-
-<!-- 자격증 (Certifications)
+<!-- Curriculum Vitae
 ---
-  * 정보처리기사
-  * 언플러그드코딩지도사 1급
-  * 인성코딩지도사
-  * AICE Associate
-  * 한국사 2급 -->
+<embed src="{{ site.baseurl }}/files/mycv.pdf" width="600" height="700" type='application/pdf'> -->
