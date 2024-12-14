@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 ###################################################################################
-# Automatic domain forwarind http://FIVEYOUNGWOO.github.io to https://ohyoungwoo.com
+# Automatic domain forward origin http://FIVEYOUNGWOO.github.io to https://ohyoungwoo.com
 ###################################################################################
 
 # Site Settings
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "영우-오-9b8bb1339" #
+  linkedin         : "youngwoo-oh" #
   orcid            : https://orcid.org/0000-0001-6452-6333 #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -117,7 +117,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          : "@youngwooh"
   wikipedia        :
 
 
