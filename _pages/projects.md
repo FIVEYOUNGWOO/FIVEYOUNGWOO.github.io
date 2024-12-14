@@ -20,7 +20,7 @@ redirectfrom:
     * 계상비율: 15%
 
   * **개발도구**
-    * Software: C/C++, Matplotlib
+    * Software: C/C++, Python, Matplotlib
     * Hardware: Raspberry Pi 4, Arduino Uno WiFi Rev2
 
   * **수행 역할**
@@ -51,7 +51,7 @@ redirectfrom:
     * 계상비율: 4%
 
   * **개발도구**
-    * Software: Linux (Ubuntu 18.04), Octave & MATLAB, C/C++, OpenCV
+    * Software: Linux (Ubuntu 18.04), GNU Octave & MATLAB, C/C++, OpenCV
     * Hardware: TP-Link AC1750 WiFi Router, Intel 5300 NIC adapters, Up-Squared Board (UPS-APLP4F-A20)
 
   * **수행 역할**
@@ -64,7 +64,7 @@ redirectfrom:
   * **업무 성과**
     * 자동수집 및 무인 운용이 가능한 센서 퓨전 SW 기술 확보
     * 데이터 로깅 SW에 관한 프로그램 저작권 2건 등록
-    * 2024 한국통신학회 동계종합학술발표 특별세션에서 "WiFi 기반 mobility 탐지를 위한 CSI 수집 및 분석" 발표
+    * 2024 한국통신학회 동계종합학술발표 특별세션에서 "WiFi 기반 Mobility 탐지를 위한 CSI 수집 및 분석" 발표
 
   * **학습 및 경험**
     * 빅데이터 분석을 통한 최적의 AI 알고리즘 선정 및 특징 학습
@@ -82,7 +82,7 @@ redirectfrom:
     * 계상비율: 59%
 
   * **개발도구**
-    * Software: Python, MATLAB, TensorFlow, PyTorch, Pandas, COCO
+    * Software: Python, GNU Octave & MATLAB, TensorFlow, PyTorch, Pandas
     * Hardware: Up-Squared Board (UPS-APLP4F-A20)
 
   * **수행 역할**
@@ -95,11 +95,11 @@ redirectfrom:
 
   * **업무 성과**
     * 객체 탐지를 위한 Embedded SW/HW 기술 확보 및 기술이전 1건 달성
-    * 2024 한국통신학회 동계종합학술발표회에서 "Multimodal learning for RF-based object tracking" 발표
+    * 2024 한국통신학회 동계종합학술발표회에서 "Multimodal Learning for RF-Based Object Tracking" 발표
     * 산학공동기술개발과제 사업 중 기술사업화 성과 달성
 
   * **학습 및 경험**
-    * AI 기술 (ResNet, CNN) 기반 데이터 특징 추출 기법 학습
+    * AI 기술 (ResNet, FCN, AutoEncoder) 기반 데이터 특징 추출 기법 학습
     * 멀티모달 AI 기술 개발 및 적용을 통한 모니터링 시스템 성능 고도화 경험
 
 <br>
