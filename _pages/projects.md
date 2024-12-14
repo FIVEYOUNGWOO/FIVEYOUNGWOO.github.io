@@ -20,8 +20,8 @@ redirectfrom:
     * 계상비율: 15%
 
   * **개발도구**
-    * Software: C/C++, Python, Matplotlib
-    * Hardware: Raspberry Pi 4, Arduino Uno WiFi Rev2
+    * Software: C, Python, Matplotlib
+    * Hardware: Raspberry Pi, Arduino Uno
 
   * **수행 역할**
     * 중소기업의 IoT 솔루션 요구사항 분석 및 기술 사양서 작성
@@ -51,8 +51,8 @@ redirectfrom:
     * 계상비율: 4%
 
   * **개발도구**
-    * Software: Linux (Ubuntu 18.04), GNU Octave & MATLAB, C/C++, OpenCV
-    * Hardware: TP-Link AC1750 WiFi Router, Intel 5300 NIC adapters, Up-Squared Board (UPS-APLP4F-A20)
+    * Software: C, GNU Octave & MATLAB, OpenCV
+    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas
 
   * **수행 역할**
     * WiFi/영상 데이터 기반 멀티모달 AI 학습 데이터 수집을 위한 데이터 로깅 SW 개발
@@ -82,8 +82,8 @@ redirectfrom:
     * 계상비율: 59%
 
   * **개발도구**
-    * Software: Python, GNU Octave & MATLAB, TensorFlow, PyTorch, Pandas
-    * Hardware: Up-Squared Board (UPS-APLP4F-A20)
+    * Software: C, Python, GNU Octave & MATLAB, TensorFlow, Pandas, OpenCV
+    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas
 
   * **수행 역할**
     * 기업 보유 기술의 한계 분석 및 개선안 도출을 통한 AI 솔루션 기획
