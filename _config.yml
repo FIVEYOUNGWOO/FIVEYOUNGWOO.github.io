@@ -93,7 +93,7 @@ author:
   googlescholar    : https://scholar.google.co.kr/citations?user=1sIHm5AAAAAJ&hl=ko #"http://yourfullgooglescholarurl.com"
   email            : "ohyoungwoo.RnD@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Youngwoo-Oh" # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://ohyoungwoo.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -117,7 +117,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "youngwoo Oh"
+  youtube          : # "" example : my origin UserName as @youngwooh
   wikipedia        :
 
 

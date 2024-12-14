@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 오영우 (Oh Youngwoo, 吳煐宇)
-======
+---
 
 <!-- 경력 (Work experience)
 ---
@@ -18,7 +18,7 @@ redirect_from:
   * BB -->
 
 학력 (Education)
-======
+---
 * 석사, 조선대학교 (컴퓨터공학과, 2022.03.02 - 2024.02.23)
   * 전체 : 3.86 / 4.5 (24학점 이수)
   * 전공 : 3.70 / 4.5 (18학점 이수, 15학점 (P/F 전공 제외))
@@ -28,29 +28,29 @@ redirect_from:
 * 졸업, 금호고등학교 (인문, 2013.03.04 - 2016.02.02)
 
 병역 (Military service)
-======
+---
 * 만기제대, 육군 (2016.12.13 - 2018.09.12)
   * 병과 : 보병 / 111102 (기관총)
 
 어학 (Language skill)
-======
+---
 * OPIc (English)
   * Intermediate Mid 2, 2G8915615426 (2024.04.28)
 
 석사 학위 논문 (Master's thesis)
-======
+---
 * Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization
 * Supervisor: 최우열
 
 연구 분야 (Research areas)
-======
+---
 * Wireless communication (SDR-based wireless communication systems, MIMO and massive MIMO systems)
 * Reinforcement learning-based resource allocation and optimization (single, multi-agent, and multi-objective RL)
 * Wireless and IoT sensing-based smart ssolution and systems (WiFi, BLE, HTTP, NFC, Camera, etc)
 * Object detection and tracking based on a multimodal approach (Knowledge distillation between WiFi and video)
 
 연구 경험 (Research experience)
-======
+---
 * **연구 관련 (research-related)**
   * 산학연 참여연구원, 조선대학교 산학협력단 (2022.03.04 - 2024.02.29)
   * 산학연 학부 참여연구원, 조선대학교 산학협력단 (2020.04.01 - 2022.02.25)
@@ -72,13 +72,11 @@ redirect_from:
   * [국방부장관상], "해안경계의 음영지역 보완을 위한 음향 AI 기반 선박 탐지 및 분류 시스템 (Team : Sound Add-On)", 제1회 국방 AI 아이디어톤 (2024.12.06)
   * [우수상], "산업현장의 근로자 위험 상황 추적 관리 시스템 (Team : RF-META VISION)", 한국연구재단 외 3개 기관 공동주최, 2023 대학원생 창업아이템 경진대회 (2023.11.03)
   * [우수논문상], "대규모 MIMO 시스템에서 주파수 효율성 및 사용자 공정성 공동 최적화를 위한 다중목표 강화학습 기반 전력 할당 기법", 제 33회 통신정보 합동학술대회 (2023.04.27)
-  <!-- * 우수상, "자율주행 기술을 활용한 야간 무인 편의점 운용 방안", GJ RIP 광주/전남 학생 AI 아이디어 공모전 (2022.03.18 - 25) -->
   * [은상], "사물인터넷 (IoT) 다중센서를 활용한 스마트 우산 공유 프로그램 (Team : COM-PI)", 2021 조선대학교 제15회 종합학술대회 (2021.11.26)
   * [장려상 (학부 우수논문)], "시분할 다중접속 기반 다중 홉 릴레이 네트워크 구현 및 성능 분석", 2021 한국통신학회 동계종합학술발표회 (2021.02.03)
-  <!-- * 장려상, 대학교 LINC 3.0 사업단 연합 공동 주최, 지역 개발 융합대회 (2020.01.29 - 31) -->
 
 주요 역량 (Summary of qualifications)
-======
+---
 * **프로그래밍 능력 (programming skills)**
   * SDR 기반 D2D, 4X4 MIMO-OFDM, TDD/TDMA 등 무선 네트워크 시뮬레이터/테스트베드 설계 및 구축
   * 다양한 프로그래밍 언어 및 프레임워크 활용 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
@@ -88,8 +86,8 @@ redirect_from:
 
 * **선호 개발 언어 (Preferred Programming Languages)**
   * Python
-  * LabVIEW
-  * MATLAB
+  * LabVIEW & LabVIEW NXG
+  * MATLAB & GNU Octave
   * Java
   * C/C++
 <br>
@@ -112,7 +110,7 @@ redirect_from:
   * 다수의 국책 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
 
 소속 학회 (Professional memberships)
-======
+---
   * graduate student member, IEEE (2021 ~ present)
   * 학생회원, 한국전자파학회 (2021 ~ present)
   * 학생회원, 한국통신학회 (2020 ~ present)
