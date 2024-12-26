@@ -52,9 +52,9 @@ redirectfrom:
 
   * **개발도구**
     * Software: C, GNU Octave & MATLAB, OpenCV
-    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas (6EA)
+    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas (3EA)
 
-  * **수행 역할**
+  * **수행 역할**ㄴ
     * WiFi/영상 데이터 기반 멀티모달 AI 학습 데이터 수집을 위한 데이터 로깅 SW 개발
     * C 언어와 OpenCV 라이브러리를 활용한 WiFi 신호와 카메라 영상 동기화 알고리즘 구현
     * WiFi 신호의 이상치 제거를 위한 Linear-regression filter 기반 신호처리 SW 모듈 개발
@@ -83,7 +83,7 @@ redirectfrom:
 
   * **개발도구**
     * Software: C, Python, GNU Octave & MATLAB, TensorFlow, Pandas, OpenCV
-    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas (6EA)
+    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas (3EA)
 
   * **수행 역할**
     * 기업 보유 기술의 한계 분석 및 개선안 도출을 통한 AI 솔루션 기획
