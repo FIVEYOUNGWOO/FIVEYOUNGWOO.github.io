@@ -111,7 +111,7 @@ redirect_from:
   * 워크샵, 학술대회, 세미나, 성과 발표회 등의 다양한 발표 경험
   * 다수의 국책 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
 
-추천서 (recommendation letters)
+<!-- 추천서 (recommendation letters)
 ---
 * **Arif Ullah Khan (PhD in Electronics & Communicayion Engineering (ECE) / Research Fellow at Queens University / Professor and Faculity Member at Chosun Univsersity)**
   * I have had the pleasure of working closely with Youngwoo Oh. He was a student in my course at Chosun University, where he demonstrated a strong aptitude for understanding key concepts and stood out as one of the top students in the class. 
@@ -121,7 +121,7 @@ redirect_from:
 
 * **Islam Helmy (PhD in Computer Science at Chosun Univsersity / Research Assistant at Smart Networking Lab)**
   * Youngwoo has excellent technical programming and hardware skills. He is highly motivated and hard-working. In addition, he is highly disciplined and can work under pressure. Further, he is familiar with different programming languages, such as Python and Matlab, and he has great experience with Linux and operating systems. He also used different machine-learning methodologies to solve wireless communication system problems. I highly recommend him for the Research and Development Position.
-<br>
+<br> -->
 
 <!-- 소속 학회 (Professional memberships)
 ---
