@@ -113,13 +113,13 @@ redirect_from:
 
 추천서 (recommendation letters)
 ---
-* **Arif Ullah Khan (PhD in Electronics & Communicayion Engineering (ECE) | Research Fellow at Queens University | Professor and Faculity Member at Chosun Univsersity)**
+* **Arif Ullah Khan (PhD in Electronics & Communicayion Engineering (ECE) / Research Fellow at Queens University / Professor and Faculity Member at Chosun Univsersity)**
   * I have had the pleasure of working closely with Youngwoo Oh. He was a student in my course at Chosun University, where he demonstrated a strong aptitude for understanding key concepts and stood out as one of the top students in the class. 
   * I also had the opportunity to collaborate with him on a research work, which led to a high-quality journal paper. What truly sets Youngwoo apart is his enthusiasm for learning and his proactive approach to problem-solving. He is not only a great team member but also a motivated individual who consistently seeks to improve his skills and expand his knowledge. His ability to work collaboratively and communicate effectively made him an invaluable member to the team.
   * Youngwoo Oh is a bright, capable, and responsible individual, and I wholeheartedly recommend him, as he will be an asset to any organization he joins.
 <br>
 
-* **Islam Helmy (PhD in Computer Science at Chosun Univsersity | Research Assistant at Smart Networking Lab)**
+* **Islam Helmy (PhD in Computer Science at Chosun Univsersity / Research Assistant at Smart Networking Lab)**
   * Youngwoo has excellent technical programming and hardware skills. He is highly motivated and hard-working. In addition, he is highly disciplined and can work under pressure. Further, he is familiar with different programming languages, such as Python and Matlab, and he has great experience with Linux and operating systems. He also used different machine-learning methodologies to solve wireless communication system problems. I highly recommend him for the Research and Development Position.
 <br>
 
