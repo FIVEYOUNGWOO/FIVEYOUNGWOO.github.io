@@ -111,13 +111,22 @@ redirect_from:
   * 워크샵, 학술대회, 세미나, 성과 발표회 등의 다양한 발표 경험
   * 다수의 국책 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
 
-소속 학회 (Professional memberships)
+* **추천서 (recommendation letter)**
+  * Arif Ullah Khan (PhD in Electronics & Communicayion Engineering (ECE) | Research Fellow at Queens University | Professor and Faculity Member at Chosun Univsersity)
+    * I have had the pleasure of working closely with Youngwoo Oh. He was a student in my course at Chosun University, where he demonstrated a strong aptitude for understanding key concepts and stood out as one of the top students in the class. 
+    * I also had the opportunity to collaborate with him on a research work, which led to a high-quality journal paper. What truly sets Youngwoo apart is his enthusiasm for learning and his proactive approach to problem-solving. He is not only a great team member but also a motivated individual who consistently seeks to improve his skills and expand his knowledge. His ability to work collaboratively and communicate effectively made him an invaluable member to the team.
+    * Youngwoo Oh is a bright, capable, and responsible individual, and I wholeheartedly recommend him, as he will be an asset to any organization he joins.
+
+  * Islam Helmy (PhD in Computer Science at Chosun Univsersity | Research Assistant at Smart Networking Lab on Chosun University)
+    * Youngwoo has excellent technical programming and hardware skills. He is highly motivated and hard-working. In addition, he is highly disciplined and can work under pressure. Further, he is familiar with different programming languages, such as Python and Matlab, and he has great experience with Linux and operating systems. He also used different machine-learning methodologies to solve wireless communication system problems. I highly recommend him for the Research and Development Position.
+
+<!-- 소속 학회 (Professional memberships)
 ---
 * graduate student member, IEEE (2021 ~ present)
 * 학생회원, 한국전자파학회 (2021 ~ present)
 * 학생회원, 한국통신학회 (2020 ~ present)
 * 학생회원, 대한전자공학회 (2020 ~ present)
-* 학생회원, 한국스마트미디어학회 (2020 ~ present)
+* 학생회원, 한국스마트미디어학회 (2020 ~ present) -->
 
 <!-- Curriculum Vitae
 ---
