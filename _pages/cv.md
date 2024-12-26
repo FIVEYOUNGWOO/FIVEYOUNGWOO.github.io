@@ -47,7 +47,7 @@ redirect_from:
 연구 분야 (Research areas)
 ---
 * **Wireless System & RF Simulator** 
-  * Design and Verification of SDR-based RF Transceivers and Communication Systems, Advanced Signal Processing
+  * Design of SDR-based RF Transceivers and Communication Systems, Advanced Signal Processing
 * **RF Sensing-based Smart Solutions and Data-Logging Systems**
   * WiFi, BLE, HTTP, MQTT, NFC, Cameras, etc.
 * **Object Detection and Tracking**
