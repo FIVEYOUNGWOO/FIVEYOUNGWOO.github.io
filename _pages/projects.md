@@ -21,7 +21,7 @@ redirectfrom:
 
   * **개발도구**
     * Software: C, Python, Matplotlib
-    * Hardware: Raspberry Pi, Arduino Uno
+    * Hardware: Raspberry Pi, Arduino Uno, Load-cell sensor (8EA)
 
   * **수행 역할**
     * 중소기업의 IoT 솔루션 요구사항 분석 및 기술 사양서 작성
@@ -52,7 +52,7 @@ redirectfrom:
 
   * **개발도구**
     * Software: C, GNU Octave & MATLAB, OpenCV
-    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas
+    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas (6EA)
 
   * **수행 역할**
     * WiFi/영상 데이터 기반 멀티모달 AI 학습 데이터 수집을 위한 데이터 로깅 SW 개발
@@ -76,14 +76,14 @@ redirectfrom:
   * **과제 정보**
     * 발주기관: 한국연구재단
     * 참여기간: 2023.06.22 - 2023.12.31 (7개월)
-    * 연구목표: CCTV 장치의 물리적 제약 극복을 위한 멀티모달 AI 기반 객체 모션 추정 기술개발
+    * 연구목표: CCTV 장치의 물리적 제약 극복 및 보완을 위한 멀티모달 AI 기반 객체 모션 추정 기술개발
     * 연구책임: 최우열
     * 참여인원: 5명
     * 계상비율: 59%
 
   * **개발도구**
     * Software: C, Python, GNU Octave & MATLAB, TensorFlow, Pandas, OpenCV
-    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas
+    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas (6EA)
 
   * **수행 역할**
     * 기업 보유 기술의 한계 분석 및 개선안 도출을 통한 AI 솔루션 기획
@@ -115,7 +115,7 @@ redirectfrom:
 
   * **개발도구**
     * Software: Python, PyQt, Flask (HTTP, webhook), Matplotlib
-    * Hardware: MINEW G1 IoT Gateway, MINEW E7 Beacon
+    * Hardware: MINEW G1 IoT Gateway (4EA), MINEW E8 Beacon (12EA)
 
   * **수행 역할**
     * 중소기업의 기술 수요 및 동종 산업 기술 분석을 통한 R&D 과제 기획
@@ -178,7 +178,7 @@ redirectfrom:
     * 무선 자원할당을 위한 OpenAI Gym 프레임워크 기반 SW 시뮬레이션 환경 구축
     * Python 및 OpenAI Gym 라이브러리를 활용한 무선 네트워크 시뮬레이터 SW 개발
     * 무선 시뮬레이터 환경에서의 강화학습 적용을 위한 Markov Decision Process (MDP) 기반 확률 모델링 수행
-    * 환경 변수 및 신호처리 모듈 등의 캡슐화 처리 후, 변수 입력만으로 무선 가상 환경 구축이 가능한 설계 도구 (_MIMO-Gym_) 개발
+    * 환경 변수 및 신호처리 모듈 등의 캡슐화 처리 후, 변수 입력만으로 무선 가상 환경 구축이 가능한 설계 도구 (_Massive-MIMO-Gym_) 개발
     * DQN, A2C 등의 강화학습 알고리즘을 활용한 네트워크 효율성 향상 및 최적 자원할당 알고리즘 설계
     * 다중목표 강화학습을 활용한 무선 네트워크의 주파수 및 에너지 효율성 공동 최적화 기법 개발
 
@@ -204,8 +204,8 @@ redirectfrom:
     * 계상비율: 20%
 
   * **개발도구**
-    * Software: LabVIEW (Communications System Design Suite 5.0, FPGA Module), MATLAB (Deep Learning Toolbox)
-    * Hardware: NI-USRP 2921 (half-duplex), NI-USRP 2932 (full-duplex)
+    * Software: LabVIEW (Communications System Design Suite 5.0, Real-Time Module), MATLAB R2021a
+    * Hardware: NI-USRP 2921 (Half-duplex / 4EA), NI-USRP 2932 (Full-duplex / 2EA), CAT.5E Ethernet (8EA)
 
   * **수행 역할**
     * 클러스터링 기반 다중 사용자 uplink 스케줄링 및 패킷 경로 제어 알고리즘 설계 및 구현
@@ -232,11 +232,11 @@ redirectfrom:
     * 계상비율: 60%
 
   * **개발도구**
-    * Software: LabVIEW (Communications System Design Suite 5.0, FPGA Module), MATLAB
-    * Hardware: NI-USRP 2921 (half-duplex), NI-USRP 2932 (full-duplex)
+    * Software: LabVIEW (Communications System Design Suite 4.0, Real-Time Module), MATLAB R2020a
+    * Hardware: NI-USRP 2921 (Half-duplex / 4EA), NI-USRP 2932 (Full-duplex / 2EA), CAT.5E Ethernet (8EA)
 
   * **수행 역할**
-    * 선박 평형수 (BWMS) 데이터 전송을 위한 Software-Defined Radio (SDR) 장치 기반 무선 테스트베드 구축
+    * 선박 평형수 (BWMS) 데이터 전송을 위한 Software-Defined Radio (SDR) 장치 기반 RF 시뮬레이터/무선 테스트베드 구축
     * LabVIEW 프로그래밍 및 SDR 장치를 활용한 멀티 홉 릴레이 네트워크 구축
     * SDR 장치의 RF 신호 왜곡 보정을 위한 Least Mean Square (LMS) 기반 적응형 필터 설계
     * 적응형 필터의 성능 분석 및 검증을 위한 LabVIEW 프로그래밍 기반 신호처리 시뮬레이터 SW 개발
