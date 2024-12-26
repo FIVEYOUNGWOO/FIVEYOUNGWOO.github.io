@@ -84,7 +84,7 @@ redirect_from:
 주요 역량 (Summary of qualifications)
 ---
 * **프로그래밍 능력 (programming skills)**
-  * SDR 기반 D2D, MIMO/OFDM, TDD/TDMA, Kalman filter, digital equalizer 등 RF 시뮬레이터/테스트베드 설계 및 구축
+  * SDR 기반 D2D, MU-MIMO, TDD/TDMA, Kalman filter, digital equalizer 등 RF 시뮬레이터/테스트베드 설계 및 구축
   * 다양한 프로그래밍 언어 및 프레임워크 활용 (LabVIEW, MATLAB, Python, Java, TensorFlow, PyTorch, PyQt, etc.)
   * 수학적 최적화 및 제어 문제 해결을 위한 강화학습 알고리즘 설계 (DQN, DDQN, A2C, A3C, PQN, and MO-A3Cs.)
   * IoT/ICT 센싱 및 mobilie applocation, HTTP 서버를 활용한 스마트 솔루션 개발 및 구현
