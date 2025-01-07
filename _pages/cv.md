@@ -102,10 +102,10 @@ redirect_from:
   * LabVIEW/Communications System Design Suite (For RF Simulator Design and Validation)
   * PyTorch/TensorFlow (For Deep Learning Development)
   * Open AI Gym/StableBaselines (For Reinforcement Learning Development)
-  * Python Flask (For Frontend development)
-  * Simulink/MATLAB/GNU Octave (For Signal processing and Visualization) 
-  * C/C++ (For Embedded SW development)
-  * Android Studio/Java (For Mobile Application development)
+  * Python Flask (For Frontend Development)
+  * Simulink/MATLAB/GNU Octave (For Signal Processing and Visualization) 
+  * C/C++ (For Embedded SW Development)
+  * Android Studio/Java (For Mobile Application Development)
 <br>
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
