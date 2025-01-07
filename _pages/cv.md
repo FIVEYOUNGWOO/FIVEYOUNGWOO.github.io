@@ -86,7 +86,7 @@ redirect_from:
 * **프로그래밍 능력 (programming skills)**
   * SDR 기반 D2D, MU-MIMO, TDD/TDMA, Kalman filter, digital equalizer 등 RF 시뮬레이터/테스트베드 설계 및 구축
   * 다양한 프로그래밍 언어 및 프레임워크 활용 (LabVIEW, MATLAB, Python, Java, TensorFlow, PyTorch, PyQt, etc.)
-  * RF 시뮬레이션 및 가상 환경에서의 최적 제어 수행을 위한 강화학습 알고리즘 설계 (DQN, A2C, A3C, PQN, and MO-A3Cs.)
+  * RF 시뮬레이션 환경에서의 최적 제어 수행을 위한 강화학습 알고리즘 설계 (DQN, A2C, A3C, PQN, and MO-A3Cs.)
   * IoT/ICT 센싱 및 모바일 애플리케이션과 HTTP 기반의 웹 프론트엔드를 활용한 스마트 솔루션 개발 및 구현
 <br>
 
