@@ -49,11 +49,11 @@ redirect_from:
 * **Wireless System & RF Simulator** 
   * Design of SDR-based RF Transceivers and Communication Systems, Advanced Signal Processing
 * **RF Sensing-based Smart Solutions and Data-Logging Systems**
-  * WiFi, BLE, HTTP, MQTT, NFC, Cameras, etc.
+  * WiFi, BLE, HTTP, MQTT, Active and Passive NFC, Cameras, etc.
 * **Object Detection and Tracking**
   * Sensor Fusion-based, Multimodal AI-based Knowledge Distillation Approach
 * **Deep Reinforcement Learning-based Decision-Making Optimization**
-  * Single, Multi-Agent and Multi-Objective Optimization
+  * Extended-Markov Decision Processes, Single, Multi-Agent, Multi-Objective Optimization
 
 연구 경험 (Research experience)
 ---
@@ -78,7 +78,7 @@ redirect_from:
   * [국방부장관상], "해안경계의 음영지역 보완을 위한 음향 AI 기반 선박 탐지 및 분류 시스템 (Sound Add-On)", 제1회 국방 AI 아이디어톤 (2024.12.06)
   * [우수상], "산업현장의 근로자 위험 상황 추적 관리 시스템 (RF-META VISION)", 한국연구재단 외 3개 기관 공동주최, 2023 대학원생 창업아이템 경진대회 (2023.11.03)
   * [우수논문상], "대규모 MIMO 시스템에서 주파수 효율성 및 사용자 공정성 공동 최적화를 위한 다중목표 강화학습 기반 전력 할당 기법", 제 33회 통신정보 합동학술대회 (2023.04.27)
-  * [은상], "사물인터넷 (IoT) 다중센서를 활용한 스마트 우산 공유 프로그램 (COM-PI)", 2021 조선대학교 제15회 종합학술대회 (2021.11.26)
+  * [은상], "다중센서를 활용한 스마트 우산 공유 프로그램 (COM-PI)", 2021 조선대학교 제15회 종합학술대회 (2021.11.26)
   * [장려상 (학부 우수논문)], "시분할 다중접속 기반 다중 홉 릴레이 네트워크 구현 및 성능 분석", 2021 한국통신학회 동계종합학술발표회 (2021.02.03)
 
 주요 역량 (Summary of qualifications)
@@ -86,16 +86,16 @@ redirect_from:
 * **프로그래밍 능력 (programming skills)**
   * SDR 기반 D2D, MU-MIMO, TDD/TDMA, Kalman filter, digital equalizer 등 RF 시뮬레이터/테스트베드 설계 및 구축
   * 다양한 프로그래밍 언어 및 프레임워크 활용 (LabVIEW, MATLAB, Python, Java, TensorFlow, PyTorch, PyQt, etc.)
-  * 수학적 최적화 및 제어 문제 해결을 위한 강화학습 알고리즘 설계 (DQN, DDQN, A2C, A3C, PQN, and MO-A3Cs.)
-  * IoT/ICT 센싱 및 mobilie applocation, HTTP 서버를 활용한 스마트 솔루션 개발 및 구현
+  * RF 시뮬레이션 및 가상 환경에서의 최적 제어 수행을 위한 강화학습 알고리즘 설계 (DQN, A2C, A3C, PQN, and MO-A3Cs.)
+  * IoT/ICT 센싱 및 모바일 애플리케이션과 HTTP 기반의 웹 프론트엔드를 활용한 스마트 솔루션 개발 및 구현
 <br>
 
 * **선호 개발 언어 (Preferred Programming Languages)**
   * LabVIEW & LabVIEW NXG
   * MATLAB & GNU Octave
   * Python
-  * Java
   * C/C++
+  * Java
 <br>
 
 * **선호 프레임워크 (Preferred Programming Frameworks)**
@@ -103,6 +103,8 @@ redirect_from:
   * PyTorch/TensorFlow (For Deep Learning Development)
   * Open AI Gym/StableBaselines (For Reinforcement Learning Development)
   * Python Flask (For Frontend development)
+  * Simulink/MATLAB/GNU Octave (For Signal processing and Visualization) 
+  * C/C++ (For Embedded SW development)
   * Android Studio/Java (For Mobile Application development)
 <br>
 
