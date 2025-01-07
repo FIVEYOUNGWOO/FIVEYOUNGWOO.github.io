@@ -43,6 +43,7 @@ redirect_from:
 ---
 * Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization
 * Supervisor: 최우열
+<br>
 
 연구 분야 (Research areas)
 ---
@@ -54,6 +55,7 @@ redirect_from:
   * Sensor Fusion-based, Multimodal AI-based Knowledge Distillation Approach
 * **Deep Reinforcement Learning-based Decision-Making Optimization**
   * Extended-Markov Decision Processes, Single, Multi-Agent, Multi-Objective Optimization
+<br>
 
 연구 경험 (Research experience)
 ---
