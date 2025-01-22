@@ -117,7 +117,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : # "" example : my origin UserName as @youngwooh
+  youtube          : "@youngwooh" # "" example : my origin UserName as @youngwooh
   wikipedia        :
 
 
