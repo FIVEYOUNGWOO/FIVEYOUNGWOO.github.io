@@ -48,11 +48,11 @@ redirect_from:
 연구 분야 (Research areas)
 ---
 * **Wireless System & RF Simulator** 
-  * Design of SDR-based RF Transceivers and Communication Systems, Advanced Signal Processing
+  * Design of SDR-Based RF Transceivers and Communication Systems, and Advanced Signal Processing
 * **RF Sensing-based Smart Solutions and Data-Logging Systems**
-  * WiFi, BLE, HTTP, MQTT, Active and Passive NFC, Cameras, etc.
+  * WiFi, BLE, Cameras, Active and Passive NFC, IoT Sensors, HTTP, REST API, and etc.
 * **Object Detection and Tracking**
-  * Sensor Fusion-based, Multimodal AI-based Knowledge Distillation Approach
+  * Sensor Fusion-Based, Multimodal AI-Based Knowledge Distillation Approach
 * **Deep Reinforcement Learning-based Decision-Making Optimization**
   * Extended-Markov Decision Processes, Single, Multi-Agent, Multi-Objective Optimization
 <br>
