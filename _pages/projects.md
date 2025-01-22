@@ -21,7 +21,7 @@ redirectfrom:
 
   * **개발도구**
     * Software: C, Python, Matplotlib
-    * Hardware: Raspberry Pi, Arduino Uno, Load-cell sensor (8EA)
+    * Hardware : Raspberry Pi, Raspberry Pi 7-inch Touch Display, Arduino Uno, Load-cell Pressure Sensor (8EA), HX711 Amplifier (8EA)
 
   * **수행 역할**
     * 중소기업의 IoT 솔루션 요구사항 분석 및 기술 사양서 작성
@@ -36,8 +36,8 @@ redirectfrom:
     * 제36회 영상처리 및 이해에 관한 워크샵에서 '사용자 운동정보 분석을 위한 헬스케어 모니터링 시스템' 발표
 
   * **학습 및 경험**
-    * IoT 및 임베디드 시스템을 위한 소프트웨어 최적화 기법 학습
-    * 기업의 요구사항 반영 및 기술명세서 기반 IoT 시스템 구축 경험
+    * 기업의 요구사항 반영 및 명세서 기반 개발 프로세스 이해
+    * 임베디드 시스템의 메모리 관리 및 컴퓨팅 연산을 고려한 SW 경량화 방안 학습
 
 <br>
 
@@ -55,10 +55,12 @@ redirectfrom:
     * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas (3EA)
 
   * **수행 역할**
+    * RADAR, LiDAR, UWB 등의 RF 센서의 조사 및 분석을 통한 WiFi 활용 방안 도출
     * WiFi/영상 데이터 기반 멀티모달 AI 학습 데이터 수집을 위한 데이터 로깅 SW 개발
     * C 언어와 OpenCV 라이브러리를 활용한 WiFi 신호와 카메라 영상 동기화 알고리즘 구현
-    * WiFi 신호의 이상치 제거를 위한 Linear-regression filter 기반 신호처리 SW 모듈 개발
-    * 객체의 움직임 변화에 따른 WiFi 신호의 peak 분석을 통해, 도플러 현상에 의한 Phase 특성 변화를 검증
+    * WiFi 신호의 이상치 제거를 위한 GNU Octave 기반 신호처리 SW 모듈 개발
+    * CSI 정보 내 Phase 타겟 분석을 위한 Un-Wrapping, Linear-Regression Filter 설계 및 적용
+    * 객체의 움직임에 따른 도플러 현상에 의한 WiFi Phase 특성 변화 도출 및 검증
     * 각 특성의 상관성을 활용한 멀티모달 AI 적용 방안 도출
 
   * **업무 성과**
@@ -67,8 +69,9 @@ redirectfrom:
     * 2024 한국통신학회 동계종합학술발표 특별세션에서 "WiFi 기반 Mobility 탐지를 위한 CSI 수집 및 분석" 발표
 
   * **학습 및 경험**
+    * WiFi 신호 분석을 위한 신호처리 기법을 학습
+    * 미래 모빌리티에 활용되는 이기종 RF 센서 및 센서 퓨전 기술을 이해
     * 빅데이터 분석을 통한 최적의 AI 알고리즘 선정 및 특징 학습
-    * AI/비전 기반 모니터링 기술 적용을 위한 SW 개발 경험
 
 <br>
 
@@ -88,18 +91,20 @@ redirectfrom:
   * **수행 역할**
     * 기업 보유 기술의 한계 분석 및 개선안 도출을 통한 AI 솔루션 기획
     * 기술개발의 타당성 검토 및 필요성 제시를 통해 R&D 과제 수주에 기여
-    * CCTV 화각 제한 및 물리적 한계를 극복하기 위한 AI 솔루션 설계
+    * CCTV 화각 제한 및 물리적 한계 극복을 위한 AI 솔루션 방안 도출
     * 센서퓨전 SW 최적화 및 경량화를 통한 Embedded Board 탑재
-    * 객체 탐지/추적을 위한 멀티모달 AI 기반 Motion Estimation 알고리즘 설계 및 구현
-    * 정량적 R&D 달성도 제시를 위한 mAP 0.38 이상의 성능 검증 및 1차 시제품 기업 이관
+    * Teacher(Image) - Student(WiFi) 기반의 멀티모달 AI 알고리즘 설계 및 구현
+    * CNN, ResNet 기반 특징 추출 및 Similarity loss 기반의 모방학습 구조 설계
+    * 정량적 R&D 달성도 제시를 위한 mAP 0.38 이상의 성능 검증
 
   * **업무 성과**
-    * 객체 탐지를 위한 Embedded SW/HW 기술 확보 및 기술이전 1건 달성
+    * 객체 탐지를 위한 Embedded SW/HW 기술 확보 및 기술이전 (노하우) 1건 달성
     * 2024 한국통신학회 동계종합학술발표회에서 "Multimodal Learning for RF-Based Object Tracking" 발표
     * 산학공동기술개발과제 사업 중 기술사업화 성과 달성
 
   * **학습 및 경험**
     * AI 기술 (ResNet, FCN, AutoEncoder) 기반 데이터 특징 추출 기법 학습
+    * 지식증류 (Knowledge Distillation) 기반 멀티모달 AI 기술에 관한 이해
     * 멀티모달 AI 기술 개발 및 적용을 통한 모니터링 시스템 성능 고도화 경험
 
 <br>
@@ -121,18 +126,21 @@ redirectfrom:
     * 중소기업의 기술 수요 및 동종 산업 기술 분석을 통한 R&D 과제 기획
     * 기술개발의 필요성 및 차별성을 제시하여 R&D 기초과제 수주에 기여
     * 게이트웨이 및 비콘 장치의 API 수정 및 활용을 통한 환경 구축
-    * Extended Kalman filter 설계 및 이를 활용한 BLE 데이터 평탄화 기법 설계
-    * Python Flask 라이브러리 기반의 데이터 수집 및 저장 서버 구축
+    * Flask 기반의 REST API 및 Webhook 설계와 이를 활용한 BLE 데이터 로깅 자동화 시스템 구축
+    * 1D Kalman filter 기반 BLE 신호의 강도 (RSSI) 데이터 평탄화 기법 설계
     * Multi-thread webhook 서버 및 HTTP GET/POST 기반의 Event Handler 구현
+    * 실내 게이트웨이의 RSSI 값을 활용한 사변측량 기반의 위치 추정 알고리즘 설계
+    * 추정 좌표의 시각화 및 제어를 위한 PyQt 기반의 인터페이스 설계 및 구현
 
   * **업무 성과**
-    * 3cm 이하의 오차를 지닌 고정밀 위치 추정 기술의 성능 검증 및 1차 시제품 기업 이관
+    * 실내 환경에서의 3cm 이하의 오차를 지닌 고정밀 위치 추정 기술 검증 및 개발
     * 2023 한국전자파학회 동계종합학술대회에서 "IoT 기반 실시간 실내 위치 추정 시스템 설계 및 구현" 발표
     * 중소기업의 사업화 지원사업 중 기술사업화 성과 달성
 
   * **학습 및 경험**
-    * 센서의 API 활용 및 제어 및 디지털 필터 설계를 학습 및 경험
-    * 비영상 데이터 기반의 모니터링 기술 적용을 위한 SW 개발 경험
+    * 센서의 API 활용 및 제어 방안을 학습 및 경험
+    * 신호의 변동성 및 이상치 제거를 위한 필터링 기법을 학습 및 경험
+    * API, REST API 및 HTTP 프로토콜 등의 프론드엔드 기술을 이해 및 체득
 
 <br>
 
@@ -177,7 +185,7 @@ redirectfrom:
   * **수행 역할**
     * 무선 자원할당을 위한 OpenAI Gym 프레임워크 기반 SW 시뮬레이션 환경 구축
     * Python 및 OpenAI Gym 라이브러리를 활용한 무선 네트워크 시뮬레이터 SW 개발
-    * 무선 시뮬레이터 환경에서의 강화학습 적용을 위한 Markov Decision Process (MDP) 기반 확률 모델링 수행
+    * 시뮬레이션 환경에서의 강화학습 적용을 위한 MDP/MOMDP 기반 확률 모델링 수행
     * 환경 변수 및 신호처리 모듈 등의 캡슐화 처리 후, 변수 입력만으로 무선 가상 환경 구축이 가능한 설계 도구 (_Massive-MIMO-Gym_) 개발
     * DQN, A2C 등의 강화학습 알고리즘을 활용한 네트워크 효율성 향상 및 최적 자원할당 알고리즘 설계
     * 다중목표 강화학습을 활용한 무선 네트워크의 주파수 및 에너지 효율성 공동 최적화 기법 개발
@@ -186,10 +194,11 @@ redirectfrom:
     * 강화학습 기반 효율성 향상 기술에 대한 국제/국내 학술발표 5회 수행
     * 다목적 함수 최적화를 위한 다중목표 강화학습 학습 기법을 주제로 IEEE Access 저널 게재
     * 제33회 통신정보 합동 학술대회 中 "공동 최적화를 위한 다중목표 강화학습 기법" 학술발표 및 우수 논문상 입상
+    * MIMO 및 RF 시뮬레이션 환경에서의 강화학습 AI 관련 GitHub 운영 (총 Star 40+ 달성)
 
   * **학습 및 경험**
-    * 시뮬레이션 환경 구축 및 강화학습 기반 효율성 향상 기술 학습
-    * 최적화 문제 해결을 위한 MDP 기반 확률 모델링 및 강화학습 기반 제어 로직 설계 방안을 학습
+    * 시뮬레이션 환경 구축 및 최적화/자동화를 위한 강화학습 AI 기법을 체득
+    * 가상 환경을 활용한 Sim2Real 방안을 학습 및 이해
     * 다중목표 강화학습 연구를 통한 AI 신기술 발굴 및 확보 경험
 
 <br>
@@ -205,19 +214,21 @@ redirectfrom:
 
   * **개발도구**
     * Software: LabVIEW (Communications System Design Suite 5.0, Real-Time Module), MATLAB R2021a
-    * Hardware: NI-USRP 2921 (Half-duplex / 4EA), NI-USRP 2932 (Full-duplex / 2EA), CAT.5E Ethernet (8EA)
+    * Hardware: NI-USRP 2921 (Half-Duplex / 4EA), NI-USRP 2932 (Full-Duplex / 2EA), CAT.5E Ethernet (8EA)
 
   * **수행 역할**
+    * MATLAB 기반 시뮬레이션의 성능 검증을 위한 RF 시뮬레이터 및 SDR 기반의 테스트베드 구축
     * 클러스터링 기반 다중 사용자 uplink 스케줄링 및 패킷 경로 제어 알고리즘 설계 및 구현
     * Software-defined radio (SDR) 장치 기반 무선 테스트베드 SW 개발 및 알고리즘 검증
-    * 합성곱 신경망을 활용한 SDR 장치의 자동 변/복조 분류 기술 설계 및 실증
+    * CNN 모델을 활용한 자동 변/복조 분류 (AMC) 기법 설계 및 테스트베드 프로그램과의 연동
+    * 실시간 SNR 변화에 따른 CNN 기반의 AMC 기법의 성능 분석 및 검증
 
   * **업무 성과**
-    * 지연시간을 활용한 클러스터링 기반 uplink 스케줄링 알고리즘을 주제로 SCIE 1편 게재
+    * 다중 사용자의 지연시간 클러스터링 기반 Uplink 스케줄링을 주제로 SCIE 1편 게재 (공저자)
     * SDR 장치 기반 무선 테스트베드 실증을 통해, BPSK, QPSK, M-QAM 등의 94%의 분류 정확도 달성
 
   * **학습 및 경험**
-    * SDR 기반 테스트베드 환경에서의 무선 알고리즘 설계 및 검증 학습
+    * 무선 시뮬레이터/테스트베드 설계 방안을 학습 및 체득
     * MATLAB 기반 M&S, LabVIEW를 활용한 RF 프로토타이핑 설계 및 개발 경험
 
 <br>
@@ -233,7 +244,7 @@ redirectfrom:
 
   * **개발도구**
     * Software: LabVIEW (Communications System Design Suite 4.0, Real-Time Module), MATLAB R2020a
-    * Hardware: NI-USRP 2921 (Half-duplex / 4EA), NI-USRP 2932 (Full-duplex / 2EA), CAT.5E Ethernet (8EA)
+    * Hardware: NI-USRP 2921 (Half-Duplex / 4EA), NI-USRP 2932 (Full-Duplex / 2EA), CAT.5E Ethernet (8EA)
 
   * **수행 역할**
     * 선박 평형수 (BWMS) 데이터 전송을 위한 Software-Defined Radio (SDR) 장치 기반 RF 시뮬레이터/무선 테스트베드 구축
