@@ -12,7 +12,7 @@ redirect_from:
 오영우 (Oh Youngwoo, 吳煐宇)
 ---
 
-<!-- 경력 (Work experience)
+<!-- 경력 (Work Experience)
 ---
 * AA (YYYY.MM.DD - YYYY.MM.DD)
   * BB -->
@@ -27,48 +27,48 @@ redirect_from:
   * 전공 : 3.71 / 4.5 (63학점 이수, 54학점 (P/F 전공 제외))
 * 졸업, 금호고등학교 (인문, 2013.03.04 - 2016.02.02)
 
-병역 (Military service)
+병역 (Military Service)
 ---
 * 만기제대, 육군 (2016.12.13 - 2018.09.12)
   * 병과 : 보병 / 111102 (기관총)
 
-어학 (Language skill)
+어학 (Language Skill)
 ---
 * OPIc (English)
   * Intermediate Mid 2, 2G8915615426 (2024.04.28)
 * TOEIC (Expired)
   * 855, (2022.02.26)
 
-석사 학위 논문 (Master's thesis)
+석사 학위 논문 (Master's Thesis)
 ---
 * Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization
 * Supervisor: 최우열
 <br>
 
-연구 분야 (Research areas)
+연구 분야 (Research Areas)
 ---
-* **Wireless System & RF Simulator** 
-  * Design of SDR-Based RF Transceivers and Communication Systems, and Advanced Signal Processing
-* **RF Sensing-based Smart Solutions and Data-Logging Systems**
+* **Wireless Communication Systems** 
+  * Design and Validation of SDR-Based RF Transceivers and Wireless Communication Systems, and Advanced Signal Processing
+* **RF Sensing-Based Smart Solutions and Data-Logging Systems**
   * WiFi, BLE, Cameras, Active and Passive NFC, IoT Sensors, HTTP, REST API, and etc.
 * **Object Detection and Tracking**
   * Sensor Fusion-Based, Multimodal AI-Based Knowledge Distillation Approach
 * **Deep Reinforcement Learning-based Decision-Making Optimization**
-  * Extended-Markov Decision Processes, Single, Multi-Agent, Multi-Objective Optimization
+  * Extended-Markov Decision Processes, Single, Multi-Agent, and Multi-Objective Optimization
 <br>
 
-연구 경험 (Research experience)
+연구 경험 (Research Experience)
 ---
-* **연구 관련 (research-related)**
+* **연구 관련 (Research-Related)**
   * 산학연 참여연구원, 조선대학교 산학협력단 (2022.03.04 - 2024.02.29)
   * 산학연 학부 참여연구원, 조선대학교 산학협력단 (2020.04.01 - 2022.02.25)
 <br>
 
-* **개발 및 교육 관련 (development and education-related)**
+* **개발 및 교육 관련 (Development and Education-Related)**
   * 생산관리 데이터분석 실습 / NCS 응용SW엔지니어링 (20010202), HRD KDT (2024.08.21 - 2024.09.20)
   * 서버 관리자, 조선대학교 EX-online judge (OJ) 시스템 서버 유지 및 관리 (2023.03.04 - 2023.08.31)
   * 연구 멘토, 학부생 멘토링 연구실 멘토 프로그램 (실시간 위치 추정 시스템 설계 및 구현) (2022.09.02 - 2022.12.28)
-  * 멀티모달 센서 logging 기술 및 모바일 애플리케이션 설계 및 개발, KAIST MINT Lab (2022.08.04 - 2024.02.29)
+  * 멀티모달 NFC 센서의 data-logging SW 개발 및 모바일 애플리케이션 설계, KAIST MINT Lab (2022.08.04 - 2024.02.29)
   * 수업 조교, NHN 아카데미 백엔드 교육과정 (2022.08.01 - 2023.02.28)
   * 시험 조교, 조선대학교 학부과정 프로그래밍 언어 및 실습 (2022.03.04 - 2023.12.24)
   * 개발도상국 전력 선불 거래를 위한 모바일 애플리케이션 설계 및 구현, Encored P&P (2021.10.18 - 2021.10.31)​
@@ -76,7 +76,7 @@ redirect_from:
   * 소프트웨어 강사 양성 과정 이수, 한전 KDN (2020.01.02 - 2020.01.22)
 <br>
 
-수상 경력 (honors and awards)
+수상 경력 (Honors and Awards)
 ---
 * **[국방부장관상 / 제1회 국방 AI 아이디어톤 / 2024.12.06]**
   * “해안경계의 음영지역 보완을 위한 음향 AI 기반 선박 탐지 및 분류 시스템 (Team : Sound Add-On / 팀원)”, 국방부 & IITP 공동주최.
@@ -90,9 +90,9 @@ redirect_from:
   * “시분할 다중접속 기반 다중 홉 릴레이 네트워크 구현 및 성능 분석 (제1저자)”, 한국통신학회 주최.
 <br>
 
-주요 역량 (Summary of qualifications)
+주요 역량 (Summary of Qualifications)
 ---
-* **프로그래밍 능력 (programming skills)**
+* **프로그래밍 능력 (Programming Skills)**
   * SDR 기반 D2D, MU-MIMO, TDD/TDMA, Kalman filter, digital equalizer 등 RF 시뮬레이터/테스트베드 설계 및 구축
   * 다양한 프로그래밍 언어 및 프레임워크 활용 (LabVIEW, MATLAB, Python, Java, TensorFlow, PyTorch, PyQt, etc.)
   * RF 시뮬레이션 환경에서의 최적 제어를 위한 강화학습 알고리즘 설계 (DQN, A2C, A3C, PQN, and proposed MO-A3Cs.)
@@ -117,15 +117,26 @@ redirect_from:
   * Android Studio/Java (For Mobile Application Development)
 <br>
 
-* **협업 및 의사소통 능력 (collaborative and communicative skills)**
+* **협업 및 의사소통 능력 (Collaborative and Communicative Skills)**
   * 4년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행 및 관리
   * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장/매니저 역할 수행, 다수의 수상 이력
 <br>
 
-* **발표 및 시각화 능력 (presentation and visualization skills)**
+* **발표 및 시각화 능력 (Presentation and Visualization Skills)**
   * 워크샵, 학술대회, 세미나, 성과 발표회 등의 다양한 발표 경험
   * 다수의 국책 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
 <br>
+
+
+소속 학회 (Professional Memberships)
+---
+* Graduate Student Member, IEEE (2023 ~ 2024)
+* 학생회원, 한국전자파학회 (2021 ~ 2023)
+* 학생회원, 한국통신학회 (2020 ~ present)
+* 학생회원, 대한전자공학회 (2020 ~ 2022)
+* 학생회원, 한국스마트미디어학회 (2020 ~ 2024)
+<br>
+
 
 <!-- 추천서 (recommendation letters)
 ---
@@ -138,14 +149,6 @@ redirect_from:
 * **Islam Helmy (PhD in Computer Science at Chosun Univsersity / Research Assistant at Smart Networking Lab)**
   * Youngwoo has excellent technical programming and hardware skills. He is highly motivated and hard-working. In addition, he is highly disciplined and can work under pressure. Further, he is familiar with different programming languages, such as Python and Matlab, and he has great experience with Linux and operating systems. He also used different machine-learning methodologies to solve wireless communication system problems. I highly recommend him for the Research and Development Position.
 <br> -->
-
-<!-- 소속 학회 (Professional memberships)
----
-* graduate student member, IEEE (2021 ~ present)
-* 학생회원, 한국전자파학회 (2021 ~ present)
-* 학생회원, 한국통신학회 (2020 ~ present)
-* 학생회원, 대한전자공학회 (2020 ~ present)
-* 학생회원, 한국스마트미디어학회 (2020 ~ present) -->
 
 <!-- Curriculum Vitae
 ---
