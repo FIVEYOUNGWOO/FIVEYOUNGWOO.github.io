@@ -42,13 +42,13 @@ redirect_from:
 석사 학위 논문 (Master's Thesis)
 ---
 * Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization
-* Supervisor: 최우열
+* Supervisor: Wooyeol Choi
 <br>
 
 연구 분야 (Research Areas)
 ---
 * **Wireless Communication Systems** 
-  * Design and Validation of SDR-Based RF Transceivers and Wireless Communication Systems, and Advanced Signal Processing
+  * Design and Validation of SDR-Based RF Transceivers and Advanced Signal Processing
 * **RF Sensing-Based Smart Solutions and Data-Logging Systems**
   * WiFi, BLE, Cameras, Active and Passive NFC, IoT Sensors, HTTP, REST API, and etc.
 * **Object Detection and Tracking**
@@ -67,8 +67,8 @@ redirect_from:
 * **개발 및 교육 관련 (Development and Education-Related)**
   * 생산관리 데이터분석 실습 / NCS 응용SW엔지니어링 (20010202), HRD KDT (2024.08.21 - 2024.09.20)
   * 서버 관리자, 조선대학교 EX-online judge (OJ) 시스템 서버 유지 및 관리 (2023.03.04 - 2023.08.31)
-  * 연구 멘토, 학부생 멘토링 연구실 멘토 프로그램 (실시간 위치 추정 시스템 설계 및 구현) (2022.09.02 - 2022.12.28)
-  * 멀티모달 NFC 센서의 data-logging SW 개발 및 모바일 애플리케이션 설계, KAIST MINT Lab (2022.08.04 - 2024.02.29)
+  * 연구 멘토, 학부생 멘티-연구실 멘토 프로그램 (2022.09.02 - 2022.12.28)
+  * 멀티모달 NFC 센서의 데이터 로깅 SW 및 모바일 애플리케이션 개발, KAIST MINT Lab (2022.08.04 - 2024.02.29)
   * 수업 조교, NHN 아카데미 백엔드 교육과정 (2022.08.01 - 2023.02.28)
   * 시험 조교, 조선대학교 학부과정 프로그래밍 언어 및 실습 (2022.03.04 - 2023.12.24)
   * 개발도상국 전력 선불 거래를 위한 모바일 애플리케이션 설계 및 구현, Encored P&P (2021.10.18 - 2021.10.31)​
@@ -113,8 +113,7 @@ redirect_from:
   * Open AI Gym/StableBaselines (For Reinforcement Learning Development)
   * Python Flask (For Frontend Development)
   * Simulink/MATLAB/GNU Octave (For Signal Processing and Visualization) 
-  * C/C++ (For Embedded SW Development)
-  * Android Studio/Java (For Mobile Application Development)
+  * Android Studio with Java lang. (For Mobile Application Development)
 <br>
 
 * **협업 및 의사소통 능력 (Collaborative and Communicative Skills)**

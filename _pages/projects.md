@@ -25,7 +25,7 @@ redirectfrom:
 
   * **수행 역할**
     * 중소기업의 IoT 솔루션 요구사항 분석 및 기술 사양서 작성
-    * 압력 센서 기반 스마트 페달 설계를 위한 C 언어 기반 MCU 임베디드 프로그램 개발
+    * 압력 센서 기반 스마트 페달 설계를 위한 C 언어 기반 MCU 임베디드 애플리케이션 개발
     * 압력 센서 데이터 로깅을 위한 Bluetooth 기반 데이터 전송 SW 모듈 개발
     * 이동평균 필터를 활용한 신호처리 및 Matplotlib 기반 시각화 SW 모듈 개발
     * 사용자의 운동 데이터 수집 및 시각화를 위한 IoT 센서 및 임베디드 장치를 활용한 1차 시제품 제작 및 기업 이관
@@ -37,7 +37,8 @@ redirectfrom:
 
   * **학습 및 경험**
     * 기업의 요구사항 반영 및 명세서 기반 개발 프로세스 이해
-    * 임베디드 시스템의 메모리 관리 및 컴퓨팅 연산을 고려한 SW 경량화 방안 학습
+    * 임베디드 시스템을 위한 소프트웨어 경량화 방안 학습
+    * 임베디드 시스템의 메모리 관리 및 컴퓨팅 연산을 고려한 SW 프로그래밍 방안을 학습
 
 <br>
 
@@ -51,27 +52,27 @@ redirectfrom:
     * 계상비율: 4%
 
   * **개발도구**
-    * Software: C, GNU Octave & MATLAB, OpenCV
-    * Hardware: TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas (3EA)
+    * Software: LabVIEW (Communications System Design Suite 5.0, 802.11 Application Framework, FPGA and Real-Time Module), C, GNU Octave & MATLAB, OpenCV
+    * Hardware: NI-USRP 2921 (Half-Duplex / 4EA), NI-USRP 2932 (Full-Duplex / 4EA), CAT.5E Ethernet (8EA), MIMO Expansion Cable (4EA), VERT2450 Antennas (16EA), TP-Link WiFi Router, Intel 5300 NIC, Up-Squared Board, 2dBi Dual Band Antennas (3EA)
 
   * **수행 역할**
     * RADAR, LiDAR, UWB 등의 RF 센서의 조사 및 분석을 통한 WiFi 활용 방안 도출
-    * WiFi/영상 데이터 기반 멀티모달 AI 학습 데이터 수집을 위한 데이터 로깅 SW 개발
-    * C 언어와 OpenCV 라이브러리를 활용한 WiFi 신호와 카메라 영상 동기화 알고리즘 구현
-    * WiFi 신호의 이상치 제거를 위한 GNU Octave 기반 신호처리 SW 모듈 개발
-    * CSI 정보 내 Phase 타겟 분석을 위한 Un-Wrapping, Median, Linear-Regression Filter 설계 및 적용
+    * WiFi 활용 및 분석을 위한 MIMO-OFDM (IEEE 802.11n) 시뮬레이터 설계 (SIL/HIL)
+    * 타겟 신호 분석을 위한 Un-Wrapping Phase, Median, Linear-Regression Filter 설계 및 적용
     * 객체의 움직임에 따른 도플러 현상에 의한 WiFi Phase 특성 변화 도출 및 검증
-    * 각 특성의 상관성을 활용한 멀티모달 AI 적용 방안 도출
+    * 상용화 제품인 WiFi 라우터 (IEEE 802.11n)와 NIC 카드 및 카메라의 데이터 로깅 SW 설계
+    * WiFi 신호의 이상치 제거를 위한 GNU Octave 기반 신호처리 SW 모듈 개발
+    * C 언어와 OpenCV 라이브러리를 활용한 WiFi/카메라 영상 동기화 알고리즘 개발
 
   * **업무 성과**
-    * 자동수집 및 무인 운용이 가능한 센서 퓨전 SW 기술 확보
-    * 데이터 로깅 SW에 관한 프로그램 저작권 2건 등록
+    * 시뮬레이터 기반의 사전 성능 분석 및 조정을 통한 개발기간 6개월 단축
+    * 시뮬레이터 및 데이터 로깅 SW에 관한 프로그램 저작권 2건 등록 (SDR/Firmware-based)
     * 2024 한국통신학회 동계종합학술발표 특별세션에서 "WiFi 기반 Mobility 탐지를 위한 CSI 수집 및 분석" 발표
 
   * **학습 및 경험**
     * WiFi 신호 분석을 위한 신호처리 기법을 학습
     * 미래 모빌리티에 활용되는 이기종 RF 센서 및 센서 퓨전 기술을 이해
-    * 빅데이터 분석을 통한 최적의 AI 알고리즘 선정 및 특징 학습
+    * 데이터 (WiFi 신호) 분석을 통한 최적의 AI 알고리즘 선정 및 특징 학습
 
 <br>
 
@@ -125,10 +126,10 @@ redirectfrom:
   * **수행 역할**
     * 중소기업의 기술 수요 및 동종 산업 기술 분석을 통한 R&D 과제 기획
     * 기술개발의 필요성 및 차별성을 제시하여 R&D 기초과제 수주에 기여
-    * 게이트웨이 및 비콘 장치의 API 수정 및 활용을 통한 환경 구축
-    * Flask 기반의 REST API 및 Webhook 설계와 이를 활용한 BLE 데이터 로깅 자동화 시스템 구축
+    * IoT 게이트웨이 및 비콘 장치의 API 수정 및 활용을 통한 실험환경 구축
+    * Flask 기반의 Webhook 서버 (REST API) 설계와 이를 활용한 BLE 데이터 로깅 자동화 시스템 구축
     * 1D Kalman Filter 기반 BLE 신호의 강도 (RSSI) 데이터 평탄화 기법 설계
-    * Multi-Thread Webhook 서버 (REST API) 및 HTTP GET/POST 기반의 Event Handler 구현
+    * Multi-Thread Webhook 서버 및 HTTP GET/POST 기반의 Event Handler 구현
     * 실내 게이트웨이의 RSSI 값을 활용한 사변측량 기반의 위치 추정 알고리즘 설계
     * 추정 좌표의 시각화 및 제어를 위한 PyQt 기반의 인터페이스 설계 및 구현
 
@@ -138,7 +139,6 @@ redirectfrom:
     * 중소기업의 사업화 지원사업 중 기술사업화 성과 달성
 
   * **학습 및 경험**
-    * 센서의 API 활용 및 제어 방안을 학습 및 경험
     * 신호의 변동성 및 이상치 제거를 위한 필터링 기법을 학습 및 경험
     * API, REST API 및 HTTP 프로토콜 등의 프론드엔드 기술을 이해 및 체득
 
@@ -183,8 +183,7 @@ redirectfrom:
     * Software: Python, Matplotlib, TensorFlow, PyTorch, Keras, Pandas, OpenAI Gym, Stable-Baselines3
 
   * **수행 역할**
-    * 무선 자원할당을 위한 OpenAI Gym 프레임워크 기반 SW 시뮬레이션 환경 구축
-    * Python 및 OpenAI Gym 라이브러리를 활용한 무선 네트워크 시뮬레이터 SW 개발
+    * Python, OpenAI Gym lib. 기반의 무선 네트워크 시뮬레이션 환경 설계
     * 시뮬레이션 환경에서의 강화학습 적용을 위한 MDP/MOMDP 기반 확률 모델링 수행
     * 환경변수 및 신호처리 모듈 등의 캡슐화 처리 후, 변수 입력만으로 환경 구축이 가능한 Toolkit (_Massive-MIMO-Gym_) 개발
     * DQN, A2C 등의 강화학습 알고리즘을 활용한 네트워크 효율성 향상 및 최적 자원할당 알고리즘 설계
@@ -199,7 +198,7 @@ redirectfrom:
   * **학습 및 경험**
     * 시뮬레이션 환경 구축 및 최적화/자동화를 위한 강화학습 AI 기법을 체득
     * 가상 환경을 활용한 Sim2Real 방안을 학습 및 이해
-    * 다중목표 강화학습 연구를 통한 AI 신기술 발굴 및 확보 경험
+    * 문제해결을 위한 강화학습 기반의 제어 로직 설계 방안을 학습
 
 <br>
 
@@ -213,13 +212,13 @@ redirectfrom:
     * 계상비율: 20%
 
   * **개발도구**
-    * Software: LabVIEW (Communications System Design Suite 5.0, Real-Time Module), MATLAB R2021a
-    * Hardware: NI-USRP 2921 (Half-Duplex / 4EA), NI-USRP 2932 (Full-Duplex / 2EA), CAT.5E Ethernet (8EA)
+    * Software: LabVIEW (Communications System Design Suite 5.0, 802.11 Application Framework, and Real-Time Module), MATLAB R2021a
+    * Hardware: NI-USRP 2921 (Half-Duplex / 4EA), NI-USRP 2932 (Full-Duplex / 2EA), CAT.5E Ethernet (8EA), MIMO Expansion Cable (3EA), VERT2450 Antennas (12EA)
 
   * **수행 역할**
-    * MATLAB 기반 시뮬레이션의 성능 검증을 위한 RF 시뮬레이터 및 SDR 기반의 테스트베드 구축
+    * 선행 기술 분석을 위한 LabVIEW 프로그래밍 기반 시뮬레이터 (IEEE 802.11ax) 설계
     * 클러스터링 기반 다중 사용자 Uplink 스케줄링 및 패킷 경로 제어 알고리즘 설계 및 구현
-    * Software-Defined Radio (SDR) 장치 기반 무선 테스트베드 SW 개발 및 알고리즘 검증
+    * Software-Defined Radio (SDR) 기반의 테스트베드 프로그램 구현을 통한 실성능 분석 및 평가
     * CNN 모델을 활용한 자동 변/복조 분류 (AMC) 기법 설계 및 테스트베드 프로그램과의 연동
     * 실시간 SNR 변화에 따른 CNN 기반의 AMC 기법의 성능 분석 및 검증
 
@@ -229,7 +228,7 @@ redirectfrom:
 
   * **학습 및 경험**
     * 무선 시뮬레이터/테스트베드 설계 방안을 학습 및 체득
-    * MATLAB 기반 M&S, LabVIEW를 활용한 RF 프로토타이핑 설계 및 개발 경험
+    * RF 기술개발에서의 시뮬레이터 및 테스트베드 기반의 분석, 검증의 중요성을 이해
 
 <br>
 
@@ -243,47 +242,27 @@ redirectfrom:
     * 계상비율: 60%
 
   * **개발도구**
-    * Software: LabVIEW (Communications System Design Suite 4.0, Real-Time Module), MATLAB R2020a
-    * Hardware: NI-USRP 2921 (Half-Duplex / 4EA), NI-USRP 2932 (Full-Duplex / 2EA), CAT.5E Ethernet (8EA)
+    * Software: LabVIEW (Communications System Design Suite 4.0, FPGA and Real-Time Module), MATLAB R2020a
+    * Hardware: NI-USRP 2921 (Half-Duplex / 4EA), NI-USRP 2932 (Full-Duplex / 2EA), CAT.5E Ethernet (8EA), VERT2450 Antennas (12EA)
 
   * **수행 역할**
     * 선박 평형수 (BWMS) 데이터 전송을 위한 SDR 장치 기반 RF 시뮬레이터/무선 테스트베드 구축
-    * LabVIEW 프로그래밍 및 SDR 장치를 활용한 멀티 홉 릴레이 네트워크 구축
-    * SDR 장치의 RF 신호 왜곡 보정을 위한 Least Mean Square (LMS) 기반 적응형 필터 설계
-    * 적응형 필터의 성능 분석 및 검증을 위한 LabVIEW 프로그래밍 기반 신호처리 시뮬레이터 SW 개발
-    * 무선 데이터 전송 중 발생하는 변조/복조 오류 최소화를 위한 AI 기술 계획 및 전략 수립
+    * BWMS 데이터 전송을 위한 데이터 패킷 프레이밍 설계 (Header, Sync., Payload, Padding)
+    * LabVIEW 기반 LMS 등화 필터와 무선 시뮬레이터 설계 및 검증 (AWGN, Rayleigh Fading)
+    * LabVIEW 프로그래밍 및 SDR 장치 연동을 통한 TDMA 기반의 다중 홉 중계 네트워크 구축
+    * 현장 실증을 통해 D2D 방식 대비 최대 350% 향상된 패킷 수신율 달성 검증 및 보고서 작성
 
   * **업무 성과**
-    * 현장 실증을 통해, 기존 D2D 방식 대비 최대 350% 향상된 패킷 수신율 달성 및 검증
-    * 기관에서 요구하는 기술 사양/명세서 및 무선 테스트베드 프로그램 이관
-    * 2021 한국통신학회 동계종합학술발표회에서 "릴레이 네트워크 구현 및 성능 분석"을 주제로 학부 우수논문상 입상
+    * 적응형 등화 필터가 탑재된 RF 시뮬레이터/테스트베드 및 최종 보고서의 기관이관 달성
     * 한국통신학회 논문지 1편 게재 및 국내 특허 "패킷 전송 경로 제어 장치 및 방법" 등록
+    * 2021 한국통신학회 동계종합학술발표회에서 "릴레이 네트워크 구현 및 성능 분석"을 주제로 학부 우수논문상 입상
 
   * **학습 및 경험**
     * 무선통신 및 신호처리 이론과 기술을 학습
+    * MATLAB 기반 M&S, LabVIEW를 활용한 RF 프로토타이핑 설계 및 개발 경험
     * 기관 연구팀과의 2박 3일의 현장실증을 통해 수직적/수평적 커뮤니케이션을 경험
 
-
-<!-- ## 전체 참여 연구과제 실적
-
-| 책임자 | 기관명               | 연구과제명                                                                                                     | 연구원구분            | 참여 기간                | 비율   |
-|:--------:|:-------------------:|:-------------------------------------------------------------------------------------------------------------:|:-------------------:|:-----------------------:|:------:|
-| 최우열 | 중소기업기술<br>정보진흥원 | 헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발                                                    | 학생연구원(과제)     | 2024.01.01 - 2024.02.29 | 15.38  |
-| 최우열 | 한국연구재단         | 재난상황 군중 밀집도 모니터링을 위한 RF기반 모빌리티 탐지 기술 개발                                             | 학생연구원(과제)     | 2023.06.22 - 2023.12.31 | 59.09  |
-| 최우열 | 중소기업기술<br>정보진흥원 | 축산오염환경에 강건한 동물 활동 모니터링을 위한 RF기반 영상정보 보완기술 기초연구                                | 학생연구원          | 2023.05.01 - 2024.02.29 | 4.54   |
-| 최우열 | 한국연구재단         | Flying Ad-Hoc Network를 위한 연합 심층강화학습 기반 자원할당 기술 연구<br>(계속과제)                             | 학생연구원          | 2022.03.01 - 2024.02.29 | 45.45  |
-| 김판구 | 한국연구재단         | 인공지능기반 초연결사회 IT 융합 인력양성팀                                                                       | 학생연구원(과제)    | 2022.03.01 - 2024.02.29 | 0      |
-| 최우열 | 중소기업기술<br>정보진흥원 | XR 기반 임상 실습 교육을 위한 실시간 다중 훈련 플랫폼 개발<br>(계속과제)                                        | 학생연구원          | 2022.09.01 - 2022.12.31 | 27.77  |
-| 김판구 | 정보통신기획<br>평가원    | 조선대-NHN 아카데미                                                                                             | 학생연구원          | 2022.09.01 - 2022.12.31 | 29     |
-| 최우열 | 중소기업기술<br>정보진흥원 | XR 기반 임상 실습 교육을 위한 실시간 다중 훈련 플랫폼 개발<br>(계속과제)                                        | 학생연구원          | 2022.05.01 - 2022.08.31 | 4.54   |
-| 김판구 | 정보통신기획<br>평가원    | 조선대-NHN 아카데미                                                                                             | 학생연구원          | 2022.01.01 - 2022.12.31 | 20     |
-| 최우열 | 한국연구재단         | Flying Ad-Hoc Network를 위한 연합 심층강화학습 기반 자원할당 기술 연구<br>(계속과제)                             | 학생연구원          | 2022.03.01 - 2023.02.28 | 50     |
-| 정일용 | 정보통신기획<br>평가원   | SW중심대학 지원 사업                                                                                             | 학생연구원          | 2022.03.01 - 2022.12.31 | 38.88  |
-| 최우열 | 한국연구재단         | 전이중 클라우드 무선 접속 네트워크를 위한 딥러닝 기반 빔형성 프로토콜 개발                                       | 학생연구원          | 2021.03.01 - 2022.02.28 | 20     |
-| 최우열 | 한국연구재단         | Flying Ad-Hoc Network를 위한 연합 심층강화학습 기반 자원할당 기술 연구<br>(계속과제)                             | 학생연구원          | 2021.10.01 - 2022.02.28 | 80     |
-| 정일용 | 정보통신기획<br>평가원    | SW중심대학 지원 사업                                                                                            | 학생연구원          | 2021.03.01 - 2021.11.30 | 30     |
-| 최우열 | 해양수산과학기술<br>진흥원 | BWMS 데이터 전송을 위한 무선 통신 기술 개발<br>(IMO 평형수 관리협약 이행 ICT 기반 PCS 대응 기술 및 핵심 기자재 개발) | 학생연구원          | 2020.04.01 - 2020.12.31 | 60     | -->
-
+<br>
 
 ## 컴퓨터프로그램저작물 저작권
 
