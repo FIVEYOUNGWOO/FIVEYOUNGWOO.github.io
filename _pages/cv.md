@@ -89,7 +89,7 @@ redirect_from:
 
 수상 경력 (Honors and Awards)
 ---
-* **[국방부장관상 / 제1회 국방 AI 아이디어톤 / 2024.12.06]** (*[news](https://daily.hankooki.com/news/articleView.html?idxno=1168304)*)
+* **[국방부장관상 / 제1회 국방 AI 아이디어톤 / 2024.12.06]** **(*[news](https://daily.hankooki.com/news/articleView.html?idxno=1168304)*)**
   * “해안경계의 음영지역 보완을 위한 음향 AI 기반 선박 탐지 및 분류 시스템 (Team : Sound Add-On / 팀원)”, 국방부 & IITP 공동주최.
 * **[우수상 / 2023 대학원생 창업아이템 경진대회 / 2023.11.03]**
   * “산업현장의 근로자 위험 상황 추적 관리 시스템 (Team : RF-META VISION / 팀장)”, 한국연구재단 외 3개 기관 공동주최.
