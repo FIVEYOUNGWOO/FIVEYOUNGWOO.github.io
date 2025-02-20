@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<h1>About Me</h1>
+<!-- <h1>About Me</h1> -->
+<h1>About Me :&#41;</h1>
 ------
 I am deeply passionate about designing and validating Software-Defined Radio (SDR)-based RF simulators/testbeds, and optimizing them using reinforcement learning (RL) approaches. Over two years as an undergraduate intern and during my M.S. studies at the [Smart Networking Lab (SNL)](https://sites.google.com/view/smart-networking/member) in Computer Science at Chosun University, I gained extensive experience in wireless communication system design and optimization.
 
