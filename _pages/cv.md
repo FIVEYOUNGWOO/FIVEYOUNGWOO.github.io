@@ -33,11 +33,13 @@ redirect_from:
   * 전체 : 3.86 / 4.5 (130학점 이수)
   * 전공 : 3.71 / 4.5 (63학점 이수, 54학점 (P/F 전공 제외))
 * 졸업, 금호고등학교 (인문, 2013.03.04 - 2016.02.02)
+<br>
 
 병역 (Military Service)
 ---
 * 만기제대, 육군 (2016.12.13 - 2018.09.12)
   * 병과 : 보병 / 111102 (기관총)
+<br>
 
 어학 (Language Skills)
 ---
@@ -45,18 +47,14 @@ redirect_from:
   * Intermediate Mid 2, 2G8915615426 (2024.04.28)
 * TOEIC (Expired)
   * 855, (2022.02.26)
-
-<!-- 석사 학위 논문 (Master's Thesis)
----
-* Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization
-* Supervisor: Wooyeol Choi
-<br> -->
+<br>
 
 석사 학위 논문 (Master's Thesis)
 ---
-* Title: [Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization](https://chosun.dcollection.net/srch/srchDetail/200000719895?searchWhere1=all&insCode=224011&searchKeyWord1=%EC%98%A4%EC%98%81%EC%9A%B0&query=%28ins_code%3A224011%29+AND++%2B%28%28all%3A%EC%98%A4%EC%98%81%EC%9A%B0%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%3Cspan+class%3D%22point1%22%3E%EC%98%A4%EC%98%81%EC%9A%B0%3C%2Fspan%3E%5D&sortField=score&searchTotalCount=0&sortDir=desc)
-* Advisor : [Wooyeol Choi](https://sites.google.com/view/inl-cau/home?authuser=0)
+* Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization (*[link](https://chosun.dcollection.net/srch/srchDetail/200000719895?searchWhere1=all&insCode=224011&searchKeyWord1=%EC%98%A4%EC%98%81%EC%9A%B0&query=%28ins_code%3A224011%29+AND++%2B%28%28all%3A%EC%98%A4%EC%98%81%EC%9A%B0%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%3Cspan+class%3D%22point1%22%3E%EC%98%A4%EC%98%81%EC%9A%B0%3C%2Fspan%3E%5D&sortField=score&searchTotalCount=0&sortDir=desc)*)
+* Advisor: Wooyeol Choi (*[link](https://sites.google.com/view/inl-cau/home?authuser=0)*)
 <br>
+
 
 연구 분야 (Research Areas)
 ---
