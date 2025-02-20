@@ -12,10 +12,17 @@ redirect_from:
 오영우 (Oh Youngwoo, 吳煐宇)
 ---
 
+
 <!-- 경력 (Work Experience)
 ---
-* AA (YYYY.MM.DD - YYYY.MM.DD)
-  * BB -->
+* HL Klemove (2025.03.10 - *present*)
+  * Researcher / RADAR Signal Processing and Simulator Design for Autonomous Driving
+* NAVER Labs (2024.07.01 - 2024.11.01)
+  * Researcher / Digital Twin-Based Virtual Environment for Autonomous Driving / Internship
+* intflow (2022.12.01 - 2023.02.01)
+  * Researcher / Support of Non-Contact Fever Detection Technology / Part-time 
+-->
+
 
 학력 (Education)
 ---
@@ -32,17 +39,23 @@ redirect_from:
 * 만기제대, 육군 (2016.12.13 - 2018.09.12)
   * 병과 : 보병 / 111102 (기관총)
 
-어학 (Language Skill)
+어학 (Language Skills)
 ---
 * OPIc (English)
   * Intermediate Mid 2, 2G8915615426 (2024.04.28)
 * TOEIC (Expired)
   * 855, (2022.02.26)
 
-석사 학위 논문 (Master's Thesis)
+<!-- 석사 학위 논문 (Master's Thesis)
 ---
 * Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization
 * Supervisor: Wooyeol Choi
+<br> -->
+
+석사 학위 논문 (Master's Thesis)
+---
+* Title: [Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization](https://chosun.dcollection.net/srch/srchDetail/200000719895?searchWhere1=all&insCode=224011&searchKeyWord1=%EC%98%A4%EC%98%81%EC%9A%B0&query=%28ins_code%3A224011%29+AND++%2B%28%28all%3A%EC%98%A4%EC%98%81%EC%9A%B0%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%3Cspan+class%3D%22point1%22%3E%EC%98%A4%EC%98%81%EC%9A%B0%3C%2Fspan%3E%5D&sortField=score&searchTotalCount=0&sortDir=desc)
+* Advisor : [Wooyeol Choi](https://sites.google.com/view/inl-cau/home?authuser=0)
 <br>
 
 연구 분야 (Research Areas)
@@ -50,7 +63,7 @@ redirect_from:
 * **Wireless Communication Systems** 
   * Design and Validation of SDR-Based RF Transceivers and Advanced Signal Processing
 * **RF Sensing-Based Smart Solutions and Data-Logging Systems**
-  * WiFi, BLE, Cameras, Active and Passive NFC, IoT Sensors, HTTP, REST API, and etc.
+  * WiFi, BLE, Cameras, Active and Passive NFC, IoT Sensors, HTTP, REST API, etc.
 * **Object Detection and Tracking**
   * Sensor Fusion-Based, Multimodal AI-Based Knowledge Distillation Approach
 * **Deep Reinforcement Learning-based Decision-Making Optimization**
@@ -107,7 +120,7 @@ redirect_from:
   * Java
 <br>
 
-* **선호 프레임워크 (Preferred Programming Frameworks)**
+* **선호 프레임워크 (Preferred Frameworks)**
   * LabVIEW/Communications System Design Suite (For RF Simulator Design and Validation)
   * PyTorch/TensorFlow (For Deep Learning Development)
   * Open AI Gym/StableBaselines (For Reinforcement Learning Development)
