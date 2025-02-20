@@ -52,7 +52,7 @@ redirect_from:
 석사 학위 논문 (Master's Thesis)
 ---
 * Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization (*[link](https://chosun.dcollection.net/srch/srchDetail/200000719895?searchWhere1=all&insCode=224011&searchKeyWord1=%EC%98%A4%EC%98%81%EC%9A%B0&query=%28ins_code%3A224011%29+AND++%2B%28%28all%3A%EC%98%A4%EC%98%81%EC%9A%B0%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%3Cspan+class%3D%22point1%22%3E%EC%98%A4%EC%98%81%EC%9A%B0%3C%2Fspan%3E%5D&sortField=score&searchTotalCount=0&sortDir=desc)*)
-* Advisor: Wooyeol Choi (*[link](https://sites.google.com/view/inl-cau/home?authuser=0)*)
+* Advisor: Prof. Wooyeol Choi (*[link](https://sites.google.com/view/inl-cau/home?authuser=0)*)
 <br>
 
 
@@ -64,8 +64,8 @@ redirect_from:
   * WiFi, BLE, Cameras, Active and Passive NFC, IoT Sensors, HTTP, REST API, etc.
 * **Object Detection and Tracking**
   * Sensor Fusion-Based, Multimodal AI-Based Knowledge Distillation Approach
-* **Deep Reinforcement Learning-based Decision-Making Optimization**
-  * Extended-Markov Decision Processes, Single, Multi-Agent, and Multi-Objective Optimization
+* **Deep Reinforcement Learning-Based Decision-Making Optimization**
+  * Extended Markov Decision Processes, Multi-Agent, and Multi-Objective Optimization
 <br>
 
 연구 경험 (Research Experience)
@@ -110,7 +110,7 @@ redirect_from:
   * IoT/ICT 센싱 및 모바일 애플리케이션과 HTTP 기반의 웹 프론트엔드를 활용한 스마트 솔루션 개발 및 구현
 <br>
 
-* **선호 개발 언어 (Preferred Programming Languages)**
+* **선호 개발 언어 및 도구 (Preferred Programming Languages and Tools)**
   * LabVIEW & LabVIEW NXG
   * MATLAB & GNU Octave
   * Python
@@ -118,7 +118,7 @@ redirect_from:
   * Java
 <br>
 
-* **선호 프레임워크 (Preferred Frameworks)**
+* **선호 프레임워크 (Preferred Software Frameworks)**
   * LabVIEW/Communications System Design Suite (For RF Simulator Design and Validation)
   * PyTorch/TensorFlow (For Deep Learning Development)
   * Open AI Gym/StableBaselines (For Reinforcement Learning Development)
