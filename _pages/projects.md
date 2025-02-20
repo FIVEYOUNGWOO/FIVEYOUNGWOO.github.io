@@ -8,7 +8,7 @@ redirectfrom:
   - /projects.html
 ---
 
-## 대표 참여 연구과제 실적
+## 대표 참여 연구과제 실적 (*[link](https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6)*)
 
 **헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발 (Development of IoT-Based Indoor Bicycle Smart Pedal for Healthcare)**
   * **과제 정보**
