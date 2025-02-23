@@ -10,7 +10,7 @@ redirectfrom:
 
 <!-- ## 대표 참여 연구과제 실적 (*[link](https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6)*) -->
 
-## 대표 참여 연구과제 실적 **(*<a href="https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6" target="_blank" rel="noopener noreferrer">link</a>*)**
+## 대표 참여 연구과제 실적 **[*<a href="https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6" target="_blank" rel="noopener noreferrer">link</a>*]**
 
 **헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발 (Development of IoT-Based Indoor Bicycle Smart Pedal for Healthcare)**
   * **과제 정보**
@@ -78,7 +78,7 @@ redirectfrom:
 <br>
 
 
-**재난상황 군중 밀집도 모빌리티 탐지 기술 개발 (Development of RF-Based Mobility Detection for Crowd Density Monitoring in Disaster Environments)** **(*<a href="https://linc.chosun.ac.kr/main/menu?gc=575YYAJ&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&page=2&bwrite_id=646" target="_blank" rel="noopener noreferrer">archive</a>*)**
+**재난상황 군중 밀집도 모빌리티 탐지 기술 개발 (Development of RF-Based Mobility Detection for Crowd Density Monitoring in Disaster Environments)** **[*<a href="https://linc.chosun.ac.kr/main/menu?gc=575YYAJ&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&page=2&bwrite_id=646" target="_blank" rel="noopener noreferrer">archive</a>*]**
   * **과제 정보**
     * 발주기관: 한국연구재단
     * 참여기간: 2023.06.22 - 2023.12.31 (7개월)
@@ -112,7 +112,7 @@ redirectfrom:
 <br>
 
 
-**영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발 (Development of a Prototype for Recognizing Cow's Calving Signs Using Video and BLE)** **(*<a href="https://linc.chosun.ac.kr/main/menu?gc=574RGBH&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&bwrite_id=228" target="_blank" rel="noopener noreferrer">archive</a>*)**
+**영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발 (Development of a Prototype for Recognizing Cow's Calving Signs Using Video and BLE)** **[*<a href="https://linc.chosun.ac.kr/main/menu?gc=574RGBH&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&bwrite_id=228" target="_blank" rel="noopener noreferrer">archive</a>*]**
   * **과제 정보**
     * 발주기관: 조선대학교 LINC 3.0 사업단 (한국연구재단)
     * 참여기간: 2022.11.24 - 2023.02.23 (3개월)
@@ -266,7 +266,7 @@ redirectfrom:
 <br>
 
 
-## 컴퓨터프로그램저작물 저작권
+<!-- ## 컴퓨터프로그램저작물 저작권
 
 | 소유권                 | 저작명                                                                                          | 번호         | 역할          | 비고                 |
 |:---------------------:|:-----------------------------------------------------------------------------------------------:|:------------:|:------------:|:--------------:|
@@ -284,4 +284,25 @@ redirectfrom:
 |:-----------------------:|:-------------------------------------------------------------------------------------------:|:------------------:|:--------:|:--------------:|
 | 조선대학교<br>산학협력단  | 다중목표 강화학습 기반 전력 전송 할당 기법을 통한 Massive MIMO Network의 효율을 최적화하는 기지국|10-2023-0192682    | 공동<br>(2/2) | 출원<br>(2023.12.27)  |
 | 인트플로우(주)         | 축산귀표인식장치, 및 그 장치가 탑재되는 스마트시스템                                             | 10-2023-0045496  | 공동<br>(5/7) | 공개<br>(2023.04.04)  |
-| 조선대학교<br>산학협력단    | 다중 홉 릴레이 네트워크에서 데이터 패킷 전송 경로를 제어하는 장치 및 방법                       | 10-2517805      | 공동<br>(2/2) | 등록<br>(2023.03.30)  |
+| 조선대학교<br>산학협력단    | 다중 홉 릴레이 네트워크에서 데이터 패킷 전송 경로를 제어하는 장치 및 방법                       | 10-2517805      | 공동<br>(2/2) | 등록<br>(2023.03.30)  | -->
+
+
+
+## 컴퓨터프로그램저작물 저작권
+
+| 소유권                 | 저작명                                                                                          | 번호         | 역할          | 비고                 |
+|:---------------------:|:-----------------------------------------------------------------------------------------------:|:------------:|:------------:|:--------------:|
+| 개인 (10%)           | <a href="https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercDtl.xml" target="_blank" rel="noopener noreferrer">재활운동을 위한 Internet of Things (IoT) 기반 볼링 골프 운동 프로그램</a>                                | C-2024-013650| 공동<br>(1/3) | 등록<br>(2024.04.15) |
+| 조선대학교<br>산학협력단  | <a href="https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercDtl.xml" target="_blank" rel="noopener noreferrer">무선 채널 및 RF 응답 측정을 위한 Software-Defined Radio (SDR) 기반 2X2 MIMO-OFDM 테스트베드 프로그램</a> | C-2024-001954 | 기타<br>(2/2) | 등록<br>(2024.01.12) |
+| 조선대학교<br>산학협력단  | <a href="https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercDtl.xml" target="_blank" rel="noopener noreferrer">무선 LAN 네트워크에서 IEEE 802.11n WiFi 및 CSI 검출을 위한 펌웨어 명령어 기반 Toolkit 프로그램</a>        | C-2024-001955 | 기타<br>(2/2) | 등록<br>(2024.01.12) |
+| 조선대학교<br>산학협력단  | <a href="https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercDtl.xml" target="_blank" rel="noopener noreferrer">사물인터넷 (IoT) 멀티 센서 기반의 공유 서비스 프로그램</a>                                               | C-2022-008305 | 기타<br>(3/5) | 등록<br>(2022.02.08) |
+| 조선대학교<br>산학협력단  | <a href="https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercDtl.xml" target="_blank" rel="noopener noreferrer">BWMS 데이터전송을 위한 멀티 홉 릴레이 네트워크 테스트베드 프로그램</a>                                    | C-2022-001887 | 기타<br>(2/2) | 등록<br>(2022.01.07) |
+| 조선대학교<br>산학협력단  | <a href="https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/regInfSerc/regInfSercDtl.xml" target="_blank" rel="noopener noreferrer">다중 홉 릴레이 네트워크 테스트베드 프로그램</a>                                                          | C-2020-031710 | 기타<br>(2/2) | 등록<br>(2020.09.16) |
+
+## 특허
+
+| 기관명                  | 특허명                                                                                      | 번호                 | 역할    | 비고           |
+|:-----------------------:|:-------------------------------------------------------------------------------------------:|:------------------:|:--------:|:--------------:|
+| 조선대학교<br>산학협력단  | 다중목표 강화학습 기반 전력 전송 할당 기법을 통한 Massive MIMO Network의 효율을 최적화하는 기지국|10-2023-0192682    | 공동<br>(2/2) | 출원<br>(2023.12.27)  |
+| 인트플로우(주)         | <a href="https://doi.org/10.8080/1020210167685" target="_blank" rel="noopener noreferrer">축산귀표인식장치, 및 그 장치가 탑재되는 스마트시스템</a>                                             | 10-2023-0045496  | 공동<br>(5/7) | 공개<br>(2023.04.04)  |
+| 조선대학교<br>산학협력단    | <a href="https://doi.org/10.8080/1020210060683" target="_blank" rel="noopener noreferrer">다중 홉 릴레이 네트워크에서 데이터 패킷 전송 경로를 제어하는 장치 및 방법</a>                       | 10-2517805      | 공동<br>(2/2) | 등록<br>(2023.03.30)  |

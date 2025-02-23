@@ -47,15 +47,15 @@ redirect_from:
 ---
 * OPIc (English)
   * Intermediate Mid 2, 2G8915615426 (2024.04.28)
+<br>
 <!-- * TOEIC (Expired)
   * 855, (2022.02.26) -->
-<br>
 
 
 석사 학위 논문 (Master's Thesis)
 ---
-* Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization (*<a href="https://chosun.dcollection.net/srch/srchDetail/200000719895?searchWhere1=all&insCode=224011&searchKeyWord1=%EC%98%A4%EC%98%81%EC%9A%B0&query=%28ins_code%3A224011%29+AND++%2B%28%28all%3A%EC%98%A4%EC%98%81%EC%9A%B0%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%3Cspan+class%3D%22point1%22%3E%EC%98%A4%EC%98%81%EC%9A%B0%3C%2Fspan%3E%5D&sortField=score&searchTotalCount=0&sortDir=desc" target="_blank" rel="noopener noreferrer">link</a>*)
-* Advisor: Prof. Wooyeol Choi (*<a href="https://sites.google.com/view/inl-cau/home?authuser=0" target="_blank" rel="noopener noreferrer">link</a>*)
+* Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization [*<a href="https://chosun.dcollection.net/srch/srchDetail/200000719895?searchWhere1=all&insCode=224011&searchKeyWord1=%EC%98%A4%EC%98%81%EC%9A%B0&query=%28ins_code%3A224011%29+AND++%2B%28%28all%3A%EC%98%A4%EC%98%81%EC%9A%B0%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%3Cspan+class%3D%22point1%22%3E%EC%98%A4%EC%98%81%EC%9A%B0%3C%2Fspan%3E%5D&sortField=score&searchTotalCount=0&sortDir=desc" target="_blank" rel="noopener noreferrer">link</a>*]
+* Advisor: Prof. Wooyeol Choi [*<a href="https://sites.google.com/view/inl-cau/home?authuser=0" target="_blank" rel="noopener noreferrer">link</a>*]
 <br>
 
 
@@ -95,7 +95,7 @@ redirect_from:
 
 수상 경력 (Honors and Awards)
 ---
-* **[국방부장관상 / 제1회 국방 AI 아이디어톤 / 2024.12.06]** **(*<a href="https://daily.hankooki.com/news/articleView.html?idxno=1168304" target="_blank" rel="noopener noreferrer">news</a>*)**
+* **[국방부장관상 / 제1회 국방 AI 아이디어톤 / 2024.12.06]** **[*<a href="https://daily.hankooki.com/news/articleView.html?idxno=1168304" target="_blank" rel="noopener noreferrer">news</a>*]**
   * “해안경계의 음영지역 보완을 위한 음향 AI 기반 선박 탐지 및 분류 시스템 (Team : Sound Add-On / 팀원)”, 국방부 & IITP 공동주최.
 * **[우수상 / 2023 대학원생 창업아이템 경진대회 / 2023.11.03]**
   * “산업현장의 근로자 위험 상황 추적 관리 시스템 (Team : RF-META VISION / 팀장)”, 한국연구재단 외 3개 기관 공동주최.
