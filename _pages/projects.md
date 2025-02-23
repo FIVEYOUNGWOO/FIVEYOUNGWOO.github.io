@@ -78,8 +78,8 @@ redirectfrom:
 
 <br>
 
-<!-- **재난상황 군중 밀집도 모니터링을 위한 RF 기반 모빌리티 탐지 기술 개발 (Development of RF-Based Mobility Detection for Crowd Density Monitoring in Disaster Environments)** **(*[archive](https://linc.chosun.ac.kr/main/menu?gc=575YYAJ&do=view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&page=2&bwrite_id=646)*)** -->
-**재난상황 군중 밀집도 모빌리티 탐지 기술 개발 (Development of RF-Based Mobility Detection for Crowd Density Monitoring in Disaster Environments)** **(*<a href="https://linc.chosun.ac.kr/main/menu?gc=575YYAJ&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&page=2&bwrite_id=646" target="_blank" rel="noopener noreferrer">archive</a>*)
+
+**재난상황 군중 밀집도 모빌리티 탐지 기술 개발 (Development of RF-Based Mobility Detection for Crowd Density Monitoring in Disaster Environments)** **(*<a href="https://linc.chosun.ac.kr/main/menu?gc=575YYAJ&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&page=2&bwrite_id=646" target="_blank" rel="noopener noreferrer">[archive]</a>*)
   * **과제 정보**
     * 발주기관: 한국연구재단
     * 참여기간: 2023.06.22 - 2023.12.31 (7개월)
@@ -113,9 +113,8 @@ redirectfrom:
 
 <br>
 
-<!-- **영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발 (Development of a Prototype for Recognizing Cow's Calving Signs Using Video and BLE)** **(*[archive](https://linc.chosun.ac.kr/main/menu?gc=574RGBH&do=view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&bwrite_id=228)*)** -->
-**영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발 (Development of a Prototype for Recognizing Cow's Calving Signs Using Video and BLE)** **(*<a href="https://linc.chosun.ac.kr/main/menu?gc=574RGBH&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&bwrite_id=228" target="_blank" rel="noopener noreferrer">archive</a>*)
 
+**영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발 (Development of a Prototype for Recognizing Cow's Calving Signs Using Video and BLE)** **(*<a href="https://linc.chosun.ac.kr/main/menu?gc=574RGBH&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&bwrite_id=228" target="_blank" rel="noopener noreferrer">[archive]</a>*)
   * **과제 정보**
     * 발주기관: 조선대학교 LINC 3.0 사업단 (한국연구재단)
     * 참여기간: 2022.11.24 - 2023.02.23 (3개월)
