@@ -48,8 +48,6 @@ redirect_from:
 * OPIc (English)
   * Intermediate Mid 2, 2G8915615426 (2024.04.28)
 <br>
-<!-- * TOEIC (Expired)
-  * 855, (2022.02.26) -->
 
 
 석사 학위 논문 (Master's Thesis)
