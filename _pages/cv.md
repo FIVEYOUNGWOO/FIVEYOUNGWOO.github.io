@@ -47,8 +47,8 @@ redirect_from:
 ---
 * OPIc (English)
   * Intermediate Mid 2, 2G8915615426 (2024.04.28)
-* TOEIC (Expired)
-  * 855, (2022.02.26)
+<!-- * TOEIC (Expired)
+  * 855, (2022.02.26) -->
 <br>
 
 
@@ -71,12 +71,14 @@ redirect_from:
   * Extended Markov Decision Processes, Multi-Agent, and Multi-Objective Optimization
 <br>
 
+
 연구 경험 (Research Experience)
 ---
 * **연구 관련 (Research-Related)**
   * 산학연 참여연구원, 조선대학교 산학협력단 (2022.03.04 - 2024.02.29)
   * 산학연 학부 참여연구원, 조선대학교 산학협력단 (2020.04.01 - 2022.02.25)
 <br>
+
 
 * **개발 및 교육 관련 (Development and Education-Related)**
   * 생산관리 데이터분석 실습 / NCS 응용SW엔지니어링 (20010202), HRD KDT (2024.08.21 - 2024.09.20)
@@ -90,9 +92,10 @@ redirect_from:
   * 소프트웨어 강사 양성 과정 이수, 한전 KDN (2020.01.02 - 2020.01.22)
 <br>
 
+
 수상 경력 (Honors and Awards)
 ---
-* **[국방부장관상 / 제1회 국방 AI 아이디어톤 / 2024.12.06]** (*<a href="https://daily.hankooki.com/news/articleView.html?idxno=1168304" target="_blank" rel="noopener noreferrer">news</a>*)
+* **[국방부장관상 / 제1회 국방 AI 아이디어톤 / 2024.12.06]** **(*<a href="https://daily.hankooki.com/news/articleView.html?idxno=1168304" target="_blank" rel="noopener noreferrer">news</a>*)**
   * “해안경계의 음영지역 보완을 위한 음향 AI 기반 선박 탐지 및 분류 시스템 (Team : Sound Add-On / 팀원)”, 국방부 & IITP 공동주최.
 * **[우수상 / 2023 대학원생 창업아이템 경진대회 / 2023.11.03]**
   * “산업현장의 근로자 위험 상황 추적 관리 시스템 (Team : RF-META VISION / 팀장)”, 한국연구재단 외 3개 기관 공동주최.
@@ -104,6 +107,7 @@ redirect_from:
   * “시분할 다중접속 기반 다중 홉 릴레이 네트워크 구현 및 성능 분석 (제1저자)”, 한국통신학회 주최.
 <br>
 
+
 주요 역량 (Summary of Qualifications)
 ---
 * **프로그래밍 능력 (Programming Skills)**
@@ -113,6 +117,7 @@ redirect_from:
   * IoT/ICT 센싱 및 모바일 애플리케이션과 HTTP 기반의 웹 프론트엔드를 활용한 스마트 솔루션 개발 및 구현
 <br>
 
+
 * **선호 개발 언어 및 도구 (Preferred Programming Languages and Tools)**
   * LabVIEW & LabVIEW NXG
   * MATLAB & GNU Octave
@@ -120,6 +125,7 @@ redirect_from:
   * C/C++
   * Java
 <br>
+
 
 * **선호 프레임워크 (Preferred Software Frameworks)**
   * LabVIEW/Communications System Design Suite (For RF Simulator Design and Validation)
@@ -130,10 +136,12 @@ redirect_from:
   * Android Studio with Java lang. (For Mobile Application Development)
 <br>
 
+
 * **협업 및 의사소통 능력 (Collaborative and Communicative Skills)**
   * 4년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행 및 관리
   * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장/매니저 역할 수행, 다수의 수상 이력
 <br>
+
 
 * **발표 및 시각화 능력 (Presentation and Visualization Skills)**
   * 워크샵, 학술대회, 세미나, 성과 발표회 등의 다양한 발표 경험

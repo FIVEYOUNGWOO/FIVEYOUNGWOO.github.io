@@ -10,7 +10,7 @@ redirectfrom:
 
 <!-- ## 대표 참여 연구과제 실적 (*[link](https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6)*) -->
 
-## 대표 참여 연구과제 실적 (*<a href="https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6" target="_blank" rel="noopener noreferrer">link</a>*)
+## 대표 참여 연구과제 실적 **(*<a href="https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6" target="_blank" rel="noopener noreferrer">link</a>*)**
 
 **헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발 (Development of IoT-Based Indoor Bicycle Smart Pedal for Healthcare)**
   * **과제 정보**
@@ -41,8 +41,8 @@ redirectfrom:
     * 기업의 요구사항 반영 및 명세서 기반 개발 프로세스 이해
     * 임베디드 시스템을 위한 소프트웨어 경량화 방안 학습
     * 임베디드 시스템의 메모리 관리 및 컴퓨팅 연산을 고려한 SW 프로그래밍 방안을 학습
-
 <br>
+
 
 **축산오염환경에 강건한 동물 활동 모니터링을 위한 RF 기반 영상정보 보완기술 기초연구 (Research on RF-Based Video Compensation for Robust Animal Activity Monitoring in Livestock Pollution Environments)**
   * **과제 정보**
@@ -75,11 +75,10 @@ redirectfrom:
     * WiFi 신호 분석을 위한 신호처리 기법을 학습
     * 미래 모빌리티에 활용되는 이기종 RF 센서 및 센서 퓨전 기술을 이해
     * 데이터 (WiFi 신호) 분석을 통한 최적의 AI 알고리즘 선정 및 특징 학습
-
 <br>
 
 
-**재난상황 군중 밀집도 모빌리티 탐지 기술 개발 (Development of RF-Based Mobility Detection for Crowd Density Monitoring in Disaster Environments)** **(*<a href="https://linc.chosun.ac.kr/main/menu?gc=575YYAJ&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&page=2&bwrite_id=646" target="_blank" rel="noopener noreferrer">[archive]</a>*)
+**재난상황 군중 밀집도 모빌리티 탐지 기술 개발 (Development of RF-Based Mobility Detection for Crowd Density Monitoring in Disaster Environments)** **(*<a href="https://linc.chosun.ac.kr/main/menu?gc=575YYAJ&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&page=2&bwrite_id=646" target="_blank" rel="noopener noreferrer">archive</a>*)**
   * **과제 정보**
     * 발주기관: 한국연구재단
     * 참여기간: 2023.06.22 - 2023.12.31 (7개월)
@@ -110,11 +109,10 @@ redirectfrom:
     * AI 기술 (ResNet, FCN, AutoEncoder) 기반 데이터 특징 추출 기법 학습
     * 지식증류 (Knowledge Distillation) 기반 멀티모달 AI 기술에 관한 이해
     * 멀티모달 AI 기술 개발 및 적용을 통한 모니터링 시스템 성능 고도화 경험
-
 <br>
 
 
-**영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발 (Development of a Prototype for Recognizing Cow's Calving Signs Using Video and BLE)** **(*<a href="https://linc.chosun.ac.kr/main/menu?gc=574RGBH&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&bwrite_id=228" target="_blank" rel="noopener noreferrer">[archive]</a>*)
+**영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발 (Development of a Prototype for Recognizing Cow's Calving Signs Using Video and BLE)** **(*<a href="https://linc.chosun.ac.kr/main/menu?gc=574RGBH&do/view&sca=%EC%82%B0%ED%95%99%ED%98%91%EB%A0%A5+%EA%B8%B0%EC%97%85%EC%A7%80%EC%9B%90+%EC%84%B1%EA%B3%BC&bwrite_id=228" target="_blank" rel="noopener noreferrer">archive</a>*)**
   * **과제 정보**
     * 발주기관: 조선대학교 LINC 3.0 사업단 (한국연구재단)
     * 참여기간: 2022.11.24 - 2023.02.23 (3개월)
@@ -145,8 +143,8 @@ redirectfrom:
   * **학습 및 경험**
     * 신호의 변동성 및 이상치 제거를 위한 필터링 기법을 학습 및 경험
     * API, REST API 및 HTTP 프로토콜 등의 프론드엔드 기술을 이해 및 체득
-
 <br>
+
 
 **XR 기반 임상 실습 교육을 위한 실시간 다중 훈련 플랫폼 개발 (Development of XR-based Multi-User Training Platform for Clinical Practice Training)**
   * **과제 정보**
@@ -171,8 +169,8 @@ redirectfrom:
   * **학습 및 경험**
     * Unity 환경에서의 프로세스 지연 및 최적화를 위한 프리펩 기법을 학습 및 경험
     * 햅틱 장치와 Unity 가상 환경의 동기화를 통한 XR 및 디지털 트윈 기술 이해
-
 <br>
+
 
 **Flying Ad-Hoc Network를 위한 연합 심층강화학습 기반 자원할당 기술 연구 (Federated Deep Reinforcement Learning-Based Resource Allocation for Flying Ad-Hoc Network)**
   * **과제 정보**
@@ -203,8 +201,8 @@ redirectfrom:
     * 시뮬레이션 환경 구축 및 최적화/자동화를 위한 강화학습 AI 기법을 체득
     * 가상 환경을 활용한 Sim2Real 방안을 학습 및 이해
     * 문제해결을 위한 강화학습 기반의 제어 로직 설계 방안을 학습
-
 <br>
+
 
 **전이중 클라우드 무선 접속 네트워크를 위한 딥러닝 기반 빔형성 프로토콜 개발 (Deep-Learning Based Beamforming Protocol for Full-Duplex C-RAN)**
   * **과제 정보**
@@ -233,8 +231,8 @@ redirectfrom:
   * **학습 및 경험**
     * 무선 시뮬레이터/테스트베드 설계 방안을 학습 및 체득
     * RF 기술개발에서의 시뮬레이터 및 테스트베드 기반의 분석, 검증의 중요성을 이해
-
 <br>
+
 
 **BWMS 데이터 전송을 위한 무선 통신 기술 개발 (Wireless Communication Technology for BWMS Data Transmission)**
   * **과제 정보**
@@ -265,8 +263,8 @@ redirectfrom:
     * 무선통신 및 신호처리 이론과 기술을 학습
     * MATLAB 기반 M&S, LabVIEW를 활용한 RF 프로토타이핑 설계 및 개발 경험
     * 기관 연구팀과의 2박 3일의 현장실증을 통해 수직적/수평적 커뮤니케이션을 경험
-
 <br>
+
 
 ## 컴퓨터프로그램저작물 저작권
 
