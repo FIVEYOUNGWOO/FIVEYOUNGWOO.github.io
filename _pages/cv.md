@@ -49,11 +49,17 @@ redirect_from:
   * 855, (2022.02.26)
 <br>
 
-석사 학위 논문 (Master's Thesis)
+<!-- 석사 학위 논문 (Master's Thesis)
 ---
 * Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization (*[link](https://chosun.dcollection.net/srch/srchDetail/200000719895?searchWhere1=all&insCode=224011&searchKeyWord1=%EC%98%A4%EC%98%81%EC%9A%B0&query=%28ins_code%3A224011%29+AND++%2B%28%28all%3A%EC%98%A4%EC%98%81%EC%9A%B0%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%3Cspan+class%3D%22point1%22%3E%EC%98%A4%EC%98%81%EC%9A%B0%3C%2Fspan%3E%5D&sortField=score&searchTotalCount=0&sortDir=desc)*)
 * Advisor: Prof. Wooyeol Choi (*[link](https://sites.google.com/view/inl-cau/home?authuser=0)*)
+<br> -->
+석사 학위 논문 (Master's Thesis)
+---
+* Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization (*<a href="https://chosun.dcollection.net/srch/srchDetail/200000719895?searchWhere1=all&insCode=224011&searchKeyWord1=%EC%98%A4%EC%98%81%EC%9A%B0&query=%28ins_code%3A224011%29+AND++%2B%28%28all%3A%EC%98%A4%EC%98%81%EC%9A%B0%29%29&navigationSize=10&start=0&pageSize=10&searthTotalPage=0&rows=10&ajax=false&pageNum=1&searchText=%5B%EC%A0%84%EC%B2%B4%3A%3Cspan+class%3D%22point1%22%3E%EC%98%A4%EC%98%81%EC%9A%B0%3C%2Fspan%3E%5D&sortField=score&searchTotalCount=0&sortDir=desc" target="_blank" rel="noopener noreferrer">[link]</a>*)
+* Advisor: Prof. Wooyeol Choi (*<a href="https://sites.google.com/view/inl-cau/home?authuser=0" target="_blank" rel="noopener noreferrer">[link]</a>*)
 <br>
+
 
 
 연구 분야 (Research Areas)
