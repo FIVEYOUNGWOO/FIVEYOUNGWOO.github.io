@@ -10,7 +10,7 @@ redirectfrom:
 
 <!-- ## 대표 참여 연구과제 실적 (*[link](https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6)*) -->
 
-## 대표 참여 연구과제 실적 ***<a href="https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6" target="_blank" rel="noopener noreferrer">link</a>***
+## 대표 참여 연구과제 실적 **[<a href="https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6" target="_blank" rel="noopener noreferrer">link</a>]**
 
 **헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발 (Development of IoT-Based Indoor Bicycle Smart Pedal for Healthcare)**
   * **과제 정보**
@@ -78,7 +78,7 @@ redirectfrom:
 <br>
 
 
-**재난상황 군중 밀집도 모빌리티 탐지 기술 개발 (Development of RF-Based Mobility Detection for Crowd Density Monitoring in Disaster Environments)** ***<a href="https://linc.chosun.ac.kr/_3nd504chcN67bab710" target="_blank" rel="noopener noreferrer">archive</a>***
+**재난상황 군중 밀집도 모빌리티 탐지 기술 개발 (Development of RF-Based Mobility Detection for Crowd Density Monitoring in Disaster Environments)** **[<a href="https://linc.chosun.ac.kr/_3nd504chcN67bab710" target="_blank" rel="noopener noreferrer">archive</a>]**
   * **과제 정보**
     * 발주기관: 한국연구재단
     * 참여기간: 2023.06.22 - 2023.12.31 (7개월)
@@ -112,7 +112,7 @@ redirectfrom:
 <br>
 
 
-**영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발 (Development of a Prototype for Recognizing Cow's Calving Signs Using Video and BLE)** ***<a href="https://linc.chosun.ac.kr/KT9uV2aW5g967bab6d7" target="_blank" rel="noopener noreferrer">archive</a>***
+**영상과 BLE를 활용한 낙농우 분만징후 유관행동 인식 시제품 개발 (Development of a Prototype for Recognizing Cow's Calving Signs Using Video and BLE)** **[<a href="https://linc.chosun.ac.kr/KT9uV2aW5g967bab6d7" target="_blank" rel="noopener noreferrer">archive</a>]**
   * **과제 정보**
     * 발주기관: 조선대학교 LINC 3.0 사업단 (한국연구재단)
     * 참여기간: 2022.11.24 - 2023.02.23 (3개월)
