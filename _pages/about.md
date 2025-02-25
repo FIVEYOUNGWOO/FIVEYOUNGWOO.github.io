@@ -19,7 +19,7 @@ redirect_from:
     text-justify: inter-word;
     hyphens: auto;
     word-spacing: 0.05em;
-    line-height: 1.3;
+    line-height: 1.5;
   }
 
   /* 특정 브라우저(Chrome, Firefox)에서 글자가 들쭉날쭉해지는 문제 해결 */
