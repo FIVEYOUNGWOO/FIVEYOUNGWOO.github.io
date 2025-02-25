@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <style>
-  p {
-    text-align: justify;
-  }
-</style> -->
-
 <style>
   p {
     text-align: justify;
@@ -22,11 +16,10 @@ redirect_from:
     line-height: 1.5;
   }
 
-  /* 특정 브라우저(Chrome, Firefox)에서 글자가 들쭉날쭉해지는 문제 해결 */
   @media screen and (min-width: 1092px) {
     p {
-      max-width: 1024px; /* 가독성을 높이기 위해 최대 폭 제한 */
-      margin: 0 auto; /* 가운데 정렬 */
+      max-width: 1024px;
+      margin: 0 auto;
     }
   }
 </style>
