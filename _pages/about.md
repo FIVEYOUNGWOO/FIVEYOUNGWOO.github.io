@@ -7,12 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-  /* Markdown에서 자동 생성되는 <p> 태그에 양쪽 정렬 */
+<!-- <style>
   p {
     text-align: justify;
   }
+</style> -->
+
+<style>
+  p {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+    word-spacing: 0.05em;
+    line-height: 1.6;
+  }
+
+  /* 특정 브라우저(Chrome, Firefox)에서 글자가 들쭉날쭉해지는 문제 해결 */
+  @media screen and (min-width: 768px) {
+    p {
+      max-width: 750px; /* 가독성을 높이기 위해 최대 폭 제한 */
+      margin: 0 auto; /* 가운데 정렬 */
+    }
+  }
 </style>
+
 
 # About Me :&#41;
 
