@@ -13,16 +13,11 @@ redirect_from:
 ---
 
 
-<!-- 경력 (Work Experience)
+경력 (Work Experience)
 ---
-* HL Klemove (2025.03.10 - *present*)
-  * Researcher / RADAR Signal Processing and Simulator Design for Autonomous Driving
-* NAVER Labs (2024.07.01 - 2024.11.01)
-  * Researcher / Digital Twin-Based Virtual Environment for Autonomous Driving / Internship
-* intflow (2022.12.01 - 2023.02.01)
-  * Researcher / Support of Non-Contact Fever Detection Technology / Part-time  -->
-
-
+* HL Klemove (Mar. 10, 2025 – Present)
+  * Researcher | RADAR Signal Processing & Simulator Design for Autonomous Driving
+<br>
 
 학력 (Education)
 ---
