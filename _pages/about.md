@@ -16,7 +16,7 @@ redirect_from:
 
 # About Me :&#41;
 
-I am deeply passionate about designing and validating Software-Defined Radio (SDR)-based RF simulators/testbeds, and optimizing them using reinforcement learning (RL) approaches. Over two years as an undergraduate intern and during M.S. studies at [_Smart Networking Lab_](https://sites.google.com/view/smart-networking/member){:target="_blank" rel="noopener noreferrer"} in Computer Science at Chosun University, I gained extensive experience in wireless communication system design and optimization.
+I am deeply passionate about designing and validating Software-Defined Radio (SDR)-based RF simulators/testbeds, and optimizing them using reinforcement learning (RL) approaches. Over two years as an undergraduate intern and during M.S. studies at [_Smart Networking Lab_](https://sites.google.com/view/smart-networking/member){:target="_blank" rel="noopener noreferrer"} in Dept. of Computer Science at Chosun University, I gained extensive experience in wireless communication system design and optimization.
 
 To address challenges in energy consumption and computational complexity in modern and emerging wireless networks, I focused on leveraging RL to optimize resource allocation while balancing trade-offs among spectral efficiency, energy efficiency, and user fairness. Specifically, I designed a multi-objective RL (MORL) algorithm for optimizing transmission power allocation in massive antenna-aided base stations (BS) across multi-cellular networks, achieving joint optimization of these critical performance metrics. This work, published in _IEEE Access_, received the Best Paper Award at _the 33rd Joint Conference on Communications and Information (JCCI)_.
 
