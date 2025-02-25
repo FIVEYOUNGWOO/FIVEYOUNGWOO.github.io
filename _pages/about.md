@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <style>
+<style>
   /* Markdown에서 자동 생성되는 <p> 태그에 양쪽 정렬 */
   p {
     text-align: justify;
   }
-</style> -->
+</style>
 
 # About Me :&#41;
 
