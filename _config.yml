@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Youngwoo Oh"
 title_separator          : "-"
 name                     : &name "Youngwoo Oh"
-description              : &description "M.S. in Computer Science (Wireless & AI Researcher)"
+description              : &description "null"
 url                      : https://FIVEYOUNGWOO.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "FIVEYOUNGWOO/FIVEYOUNGWOO.github.io"
@@ -92,7 +92,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.co.kr/citations?user=1sIHm5AAAAAJ&hl=ko #"http://yourfullgooglescholarurl.com"
   email            : "ohyoungwoo.RnD@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Youngwoo-Oh" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # "https://www.researchgate.net/profile/Youngwoo-Oh"
   uri              : 
   bitbucket        :
   codepen          :
@@ -107,7 +107,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "youngwoo-oh" #
-  orcid            : https://orcid.org/0000-0001-6452-6333 #"http://orcid.org/yourorcidurl"
+  orcid            : # https://orcid.org/0000-0001-6452-6333
   pinterest        :
   soundcloud       :
   stackoverflow    : # "18469670/youngwoo-oh" # example, http://stackoverflow.com/users/123456/username

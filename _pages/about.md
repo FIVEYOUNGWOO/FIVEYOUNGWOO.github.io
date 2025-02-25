@@ -23,9 +23,9 @@ redirect_from:
   }
 
   /* 특정 브라우저(Chrome, Firefox)에서 글자가 들쭉날쭉해지는 문제 해결 */
-  @media screen and (min-width: 868px) {
+  @media screen and (min-width: 1092px) {
     p {
-      max-width: 850px; /* 가독성을 높이기 위해 최대 폭 제한 */
+      max-width: 1024px; /* 가독성을 높이기 위해 최대 폭 제한 */
       margin: 0 auto; /* 가운데 정렬 */
     }
   }
