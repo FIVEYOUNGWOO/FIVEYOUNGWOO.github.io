@@ -83,7 +83,7 @@
   }
 
   img {
-    max-width: 75px;
+    max-width: 175px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -92,7 +92,6 @@
     }
   }
 }
-
 
 .author__content {
   display: table-cell;
