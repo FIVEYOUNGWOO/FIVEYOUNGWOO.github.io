@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-오영우 (Oh Youngwoo, 吳煐宇)
+오영우 (Youngwoo Oh, 吳煐宇)
 ---
 
 
@@ -18,6 +18,7 @@ redirect_from:
 * HL Klemove (Mar. 2025 - present)
   * Researcher | RADAR Signal Processing & Simulator Design for Autonomous Driving
 <br>
+
 
 학력 (Education)
 ---
