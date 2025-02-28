@@ -16,7 +16,7 @@ redirect_from:
 경력 (Work Experience)
 ---
 * HL Klemove (Mar. 2025 - present)
-  * Researcher | RADAR Signal Processing & Simulator Design for Autonomous Driving
+  * Researcher | Radar Innovation Lab | Global R&D Center, Republic of Korea
 <br>
 
 
