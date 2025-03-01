@@ -16,7 +16,7 @@ redirect_from:
 경력 (Work Experience)
 ---
 * HL Klemove (Mar. 2025 - Present)
-  * Researcher | Radar Innovation Lab | Pangyo Global R&D Center (Next-M)
+  * Researcher | Radar Innovation Lab | Global R&D Center (Next-M)
 <br>
 
 
@@ -84,7 +84,7 @@ redirect_from:
   * 시험 조교, 조선대학교 학부과정 프로그래밍 언어 및 실습 (2022.03.04 - 2023.12.24)
   * SW 개발자, 전력 선불 거래를 위한 모바일 APP 설계 및 구현, Encored P&P (2021.10.18 - 2021.10.31)​
   * 파트 연구원, 딥러닝 기반 비접촉 발열 측정 시스템 실험 및 검증 지원, Intflow (2020.12 - 2021.02)
-  * SW 교육 강사, 주말교육기부 찾아가는 SW교육강사, 세지중학교교 (2020.06.20 - 2020.07.19)
+  * SW 교육 강사, 주말교육기부 찾아가는 SW교육강사, 세지중학교 (2020.06.20 - 2020.07.19)
   * 교육 수료, 소프트웨어 강사 양성 과정, 한전 KDN (2020.01.02 - 2020.01.22)
 <br>
 
