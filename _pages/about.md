@@ -35,5 +35,3 @@ To address challenges related to energy consumption and computational complexity
 I also designed and validated RF simulators and SDR-based RF transceivers, including TDD/TDMA, OFDM, and MIMO systems, incorporating advanced digital signal processing techniques. These efforts led to nine research papers presented at international and domestic conferences, one of which received the Best Paper Award at _the 2021 Winter Conference of the Korea Information and Communications Society (KICS)_.
 
 My research journey continues as I join <a href="https://hlklemove.com/eng/main.do" target="_blank" rel="noopener noreferrer">_HL Klemove_</a> in March 2025, contributing to the advancement of autonomous driving solutions.
-
-<!-- I actively share my research methodologies and experimental results through my [_YouTube_](https://www.youtube.com/channel/UCZI9JfPn_Nk6HVkl2aAj4xA){:target="_blank" rel="noopener noreferrer"} and [_GitHub_](https://github.com/FIVEYOUNGWOO){:target="_blank" rel="noopener noreferrer"}, fostering global collaboration and advancing innovations in wireless communication technologies. -->
