@@ -58,7 +58,7 @@ redirect_from:
 * **Wireless Communication Systems** 
   * Design and Validation of SDR-Based RF Transceivers and Advanced Signal Processing
 * **RF Sensing-Based Smart Solutions and Data-Logging Systems**
-  * WiFi, BLE, Cameras, Active and Passive NFC, IoT Sensors, HTTP, REST API, etc.
+  * Sensors Supporting Wireless Interfaces such as WiFi, BLE, NFC, and IoT Connectivity
 * **Object Detection and Tracking**
   * Sensor Fusion-Based, Multimodal AI-Based Knowledge Distillation Approach
 * **Deep Reinforcement Learning-Based Decision-Making Optimization**
