@@ -31,7 +31,7 @@ redirectfrom:
     * 브라우저 환경에서 이기종 데이터를 무손실 통합 및 시각화하는 웹 기반 모니터링/시뮬레이터(ReSim) 핵심기술 확보
 <br>
 
-## 대표 참여 연구과제 실적 (Academic & Research Experience) **[<a href="https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6" target="_blank" rel="noopener noreferrer">link</a>]**
+## 학술 경력 (Academic & Research Experience) **[<a href="https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6" target="_blank" rel="noopener noreferrer">link</a>]**
 
 **헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발 (Development of IoT-Based Indoor Bicycle Smart Pedal for Healthcare)**
   * **과제 정보**
