@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Projects"
+title: " "
 authorprofile: true
 redirectfrom: 
   - /md/
