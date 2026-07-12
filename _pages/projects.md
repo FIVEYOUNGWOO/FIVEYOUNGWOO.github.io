@@ -21,9 +21,9 @@ redirectfrom:
 
   * **수행 역할**
     * RADAR, Camera, GPS 등의 이기종 센서 데이터 타입을 ROS 환경으로 표준화 및 통합 체계 구축
-    * OS 및 클라이언트 환경 의존성 제거 및 차종별 실시간 다중 모니터링 지원을 위한 Web 기반 Full-Stack 아키텍처 설계
+    * OS/클라이언트 환경 의존성 제거 및 차종별 실시간 다중 모니터링 지원을 위한 Web 기반 Full-Stack 아키텍처 설계
     * 대용량 주행 데이터의 웹 스트리밍 최적화를 위한 초저지연 프로토콜 기반 파이프라인 구현
-    * 주행 중 실시간 데이터셋 생성 및 자사 데이터베이스 업로드 기능 개발
+    * 주행 중 실시간 데이터셋 생성 및 자사 데이터베이스 서버 업로드 기능 개발
     * 차량 엔드포인트 내 모니터링 플랫폼 SW 최신화 및 배포 자동화 위한 OTA 기능 개발
 
   * **업무 성과**
@@ -31,7 +31,7 @@ redirectfrom:
     * 브라우저 환경에서 이기종 데이터를 무손실 통합 및 시각화하는 웹 기반 모니터링/시뮬레이터(ReSim) 핵심기술 확보
 <br>
 
-## 학술 경력 (Academic & Research Experience) **[<a href="https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6" target="_blank" rel="noopener noreferrer">link</a>]**
+## 학술 경력/ (Academic & Research Experience) **[<a href="https://sites.google.com/view/inl-cau/research?authuser=0#h.54u4ry4juld6" target="_blank" rel="noopener noreferrer">link</a>]**
 
 **헬스케어를 위한 IoT 기반 실내 자전거 스마트 페달 개발 (Development of IoT-Based Indoor Bicycle Smart Pedal for Healthcare)**
   * **과제 정보**
